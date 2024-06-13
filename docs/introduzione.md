@@ -1,4 +1,4 @@
-Il progetto consiste nello sviluppo di un remake di un videogioco famoso dei primi anni 2000 per conto della ditta produttrice Mintendo.
+Il progetto consiste nello sviluppo di un remake di un videogioco famoso dei primi anni 2000, Dibimon Cobalto , per conto della ditta produttrice Mintendo.
 
 Per remake si intende una nuova versione di un videogioco che ne mantiene la struttura e rinnova il gameplay e le funzionalità per adattarlo ai tempi.
 
