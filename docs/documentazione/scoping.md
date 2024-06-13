@@ -1,6 +1,9 @@
 # Documentazione prodotta
 
 - [Contition of Satisfaction](./scopingC/CoS)
-- POS/
-    - SWAT
-- RBS/User Story
+- [POS](./scopingC/POS)
+    - SWOT
+    - Risk Matrix
+    - 
+- RBS
+    - User Story
