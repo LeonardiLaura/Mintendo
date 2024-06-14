@@ -8,18 +8,7 @@ Creare un nuovo prodotto che possa ampliare la nostra rete di contatti, tramite 
 
 Lo scopo del progetto è la creazione del remake di un videogioco, Dibimon Cobalto, che sia gradito sia agli appassionati di vecchia data che ai nuovi giocatori.
 
-## Obiettivi
-
-| Obiettivi | Rischi | Criteri di successo |
-|-----------|--------|---------------------|
-| Consegnare il prodotto nei tempi stabiliti | incontare problemi di varia natura (tecnologici, organizzativi o dovuti ad un aggiunta massiccia di funzionalità) | consegnare il prodotto entro il 06/27 |
-| Creare un esperienza di gioco simile a quella del videogioco originale aggiungendo funzionlità innovative e moderne che rendano il videogioco godibile secondo gli standard odierni | <ul> <li> Ottenere un videogioco troppo lontano dai moderni standard </li><li> Ottenere un prodotto non in linea con le aspettative degli appassionati di lunga data </li></ul>| <ul> <li> Vendere un numero di copie pari o superiore ai 3,5 milioni per ogni categoria di utente entro 3 mesi dal lancio</li> <li> ottenere delle valutazioni con un voto medio di 85 su 100 da parte delle testate giornalistiche del settore</li></ul> |
-| Realizzazione quattro trailer | <ul><li> Non ottenere la visibilità desiderata</li> <li> Bilanciare i contenuti all'interno dei trailer in modo che essi stimolino curiosità </li><li>Prestare attenzione ai contenuti mostrati all'interno dei trailer in modo che non siano rivelati eccessivamente </li><li> Mancata approvazione del trailer da parte di Mintendo e mancanza di tempo per effettuare le modifiche necessarie</li></ul> | <ul><li> ultimare i trailer entro le seguenti date: 02-06-09-11/27 </li><li> ottenere un numero di like per ogni trailer pari a 1/10 delle visualizzazioni ottenute sui varii social </li> <li> ottenere un numero di visualizzazioni per ogni trailer totale maggiore o uguale a 2 milioni entro un mese dall'uscita del trailer sommando le visualizzazioni sui varii social </li></ul>|
-| Realizzazione demo | <ul> <li> Data mining sul contenuto del gioco  </li> <li> Bilanciare i contenuti all'interno della demo in modo che stimoli curiosità </li> <li>Prestare attenzione ai contenuti mostrati all'interno della demo in modo che non siano rivelati eccessivamente </li> <li> Mancata approvazione della demo da parte di Mintendo e mancanza di tempo per effettuare le modifiche necessarie </li> </ul>|<ul> <li> ultimare la demo entro il 09/27 </li> <li> ottenere l'80% di recensioni positive, ovvero uguali o maggiori di 3 stelle su 5, tramite sondaggi </li> <li> ottenere un numero di downolad maggiore o uguale a 2 milioni entro un mese dall'uscita della demo </li> </ul> |
-| Gestione interazione con altri dispositivi | | |
-| bug fix post lancio | | |
-
-
+## Obiettivi, rischi e criteri di successo
 
 <table>
     <tr>
@@ -28,12 +17,12 @@ Lo scopo del progetto è la creazione del remake di un videogioco, Dibimon Cobal
         <th>Criteri di successo</th>
     </tr>
     <tr>
-        <td>Consegnare il prodotto nei tempi stabiliti</td>
+        <td> 1 Consegnare il prodotto nei tempi stabiliti</td>
         <td>Incontrare problemi di varia natura (tecnologici, organizzativi o dovuti ad un'aggiunta massiccia di funzionalità)</td>
         <td>Consegnare il prodotto entro il 06/27</td>
     </tr>
     <tr>
-        <td>Creare un'esperienza di gioco simile a quella del videogioco originale aggiungendo funzionalità innovative e moderne che rendano il videogioco godibile secondo gli standard odierni</td>
+        <td> 2 Creare un'esperienza di gioco simile a quella del videogioco originale aggiungendo funzionalità innovative e moderne che rendano il videogioco godibile secondo gli standard odierni</td>
         <td>
             <ul>
                 <li>Ottenere un videogioco troppo lontano dai moderni standard</li>
@@ -48,7 +37,7 @@ Lo scopo del progetto è la creazione del remake di un videogioco, Dibimon Cobal
         </td>
     </tr>
     <tr>
-        <td>Realizzazione quattro trailer</td>
+        <td>3 Realizzazione quattro trailer</td>
         <td>
             <ul>
                 <li>Non ottenere la visibilità desiderata</li>
@@ -66,7 +55,7 @@ Lo scopo del progetto è la creazione del remake di un videogioco, Dibimon Cobal
         </td>
     </tr>
     <tr>
-        <td>Realizzazione demo</td>
+        <td>4 Realizzazione demo</td>
         <td>
             <ul>
                 <li>Data mining sul contenuto del gioco</li>
@@ -84,15 +73,40 @@ Lo scopo del progetto è la creazione del remake di un videogioco, Dibimon Cobal
         </td>
     </tr>
     <tr>
-        <td>Gestione interazione con altri dispositivi</td>
-        <td></td>
-        <td></td>
+        <td>5 Gestione interazione con altri dispositivi</td>
+        <td>formato dati non compatibile e conseguente necessità di conversione 
+        </td>
+        <td> Il numero di connessioni giornaliere medie è maggiore o uguale a 30000 accessi dopo 3 mesi dal lancio </td>
     </tr>
     <tr>
-        <td>Bug fix post lancio</td>
-        <td></td>
-        <td></td>
+        <td>6 Correzzione errori e aggiunta di funzionalità online dopo il lancio</td>
+        <td> 
+            <ul> 
+                <li>Gli errori critici sono di grande portata e non correggibili in tempi brevi </li> 
+                <li> Le nuove funzionalità non suscitano l'interesse sperato o introducono errori </li> 
+            </ul>
+        </td>
+        <td> 
+            <ul>
+                <li>Gli errori critici vengono corretti entro 2 settimane dalla segnalazione </li>
+                <li>Gli errori di importanza sedcondaria vengono corretti entro un mese dalla segnalazione </li>
+                <li> nella settimana del lancio delle nuove funzionalità si registra un aumento dei giocatori attivi del 400% </li>
+            </ul>
+        </td>
     </tr>
 </table>
+
+# Assunzioni e Ostacoli
+
+<ul>
+    <li> Abbiamo già lavorato per la Mintendo, ma non sul brand Dibimon, dunque conosciamo bene le tecnologie della console ma non gli elementi specifici relativi al brand Dibimon </li>
+    <li> L'interesse dell'azienda non riguarda unicamente le copie ventute, ma anche la vendita di abbonamenti per accedere ai servizi online e il mantenimento o incremento del prestigio del brand </li>
+    <li> L'infrastruttura dei server per la gestione della parte online è di competenza della Mintendo </li>
+    <li> Stimiamo di impiegare in questo progetto un organico di 400 persone che corrisponde alla nostra totale forza lavoro </li>
+    <li>I pagamenti avverranno in maniera incrementale ad ogni iterazione</li>
+    <li> I prodotti saranno sempre fatti visionare alla Mintendo con un certo anticipo rispetto alle date di consegna per la correzzione di eventuali errori </li>
+    <li>Durante l'intero processo di sviluppo saranno effettuate indagini per ottenre l'opinione di potenziali utenti e avvicinarsi il più possibile alle loro aspettative</li>
+    <li> Non abbiamo possibilità di effettuare altri progetti nei 4 anni in cui sarà sviluppato Dibimon Cobalto in quanto occupa tutta la nostra forza lavoro </li>
+</ul>
 
 [Menu](../../index.md)

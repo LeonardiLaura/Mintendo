@@ -45,7 +45,7 @@
         <td>Non iniziato</td>
     </tr>
     <tr>
-        <td>Soddisfazione committente</td>
+        <td>Ottenere un buon rapporto con il committente</td>
         <td>Svolgimento survey e incontri con il committente frequenti</td>
         <td>Monitorato</td>
     </tr>

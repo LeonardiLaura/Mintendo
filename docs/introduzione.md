@@ -9,8 +9,7 @@ Il giocatore dovrà completare una serie di sfide di difficoltà incrementale ch
 
 
 Il videogioco dovrà essere utilizzabile sulla console proprietaria dell’azienda (Mintendo Swap) e poter interagire con l'applicazione mobile Mintendo House che permette di trasferire Dibimon tra i vari giochi e di scambiarli.
-
-Sebbene la principale modalità di gioco sia single player, è possibile giocare una modalità in multiplayer che permette di sfidare altri giocatori in possesso del videogioco nel resto del mondo.
+Sebbene la principale modalità di gioco sia single player, è possibile giocare una modalità in multiplayer che permette di sfidare altri giocatori in possesso del videogioco nel resto del mondo. Tali funzionalità saranno siponibili pagando un abbonamento annuale.
 
 
 Le modifiche e gli adattamenti da apportare hanno un ruolo fondamentale in quanto i vari videogiochi del brand che si sono susseguiti nel corso degli ultimi 20 anni hanno introdotto numerose variazioni e aggiunte che dovranno essere inserite in un videogioco dove non erano originariamente previste, mantenendo comunque un ottimo bilanciamento all’interno del videogioco al fine di preservare un’esperienza di gioco bilanciata.
@@ -20,6 +19,7 @@ Le modifiche principali riguardano l'aggiunta di nuovi tipi e conseguente modifi
 
 Nel progetto è anche compresa una gestione parziale della campagna di marketing, nello specifico per la gestione di quattro trailer del videogioco, che dovranno uscire durante l'anno precedente, e una sua demo giocabile disponibile qualche mese prima dell'uscita del videogioco. Data l’importanza del brand per Mintendo, ogni contenuto della campagna marketing dovrà prima essere approvato e in caso modificato per adattarsi il più possibile ai desideri dell’azienda.
 
+Dopo l'uscita il gioco dovrà essere supportato tramite patch per correggere eventuali errori o per aggiungere nuove funzionalità online.
 
 Il videogioco prodotto dovrà soddisfare i requisiti dell'azienda e le aspettative del pubblico, in particolare viene richiesto di mantenere la struttura di gioco quanto più simile possibile al videogioco originale per soddisfare gli appassionati di lunga data del brand e al contempo adattarlo agli standard moderni in ambito videoludico, in modo da renderlo apprezzabile anche ai nuovi giocatori.
 
