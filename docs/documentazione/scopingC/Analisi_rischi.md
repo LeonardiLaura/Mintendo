@@ -1,16 +1,21 @@
 
->[!NOTE]
+> [!NOTE]
 >
 >prova 
 
->[!TIP]
+<div style="border: 1px solid #ccc; padding: 10px; background-color: #f9f9f9;">
+<strong>Nota:</strong> Questo è un blocco note importante.
+</div>
+
+
+> [!TIP]
 >xy
 
->[!IMPORTANT]
+> [!IMPORTANT]
 >
 >prova
 
->[!CAUTION]
+> [!CAUTION]
 >
 >prova
 
