@@ -60,10 +60,10 @@ border-top-width: 2px;}
     </tr>
     <tr>
         <th >Irrilevante</th>
-        <th >Bassa</th>
-        <th >Moderata</th>
-        <th >Alta</th>
-        <th >Estrema</th>
+        <th >Bassa      </th>
+        <th >Moderata   </th>
+        <th >Alta       </th>
+        <th >Estrema    </th>
     </tr>
     <tr>
         <th rowspan="5">Impatto</th>
