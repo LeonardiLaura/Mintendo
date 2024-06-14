@@ -1,14 +1,7 @@
-remote_theme: "mmistakes/minimal-mistakes@4.26.1"
+remote_theme: "LeonardiLaura/cayman"
 github:
   private: false
   license:
     name: MIT
   repository_url: "https://github.com/LeonardiLaura/PM"
-plugins:
-  - jekyll-include-cache
 
-
-
-# Enable sidebar navigation
-sidebar:
-  nav: sidebar-nav.yml
