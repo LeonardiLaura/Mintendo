@@ -50,8 +50,9 @@ border-top-width: 2px;}
 </div>
 
 
+
 <p align="center">
-  <img src="../../img/tabella_finale.png" alt="Tabella rischi"/>
+  <img src="../../img/tabella_finale.png" alt="Tabella rischi" width= 50% />
 </p>
 
 
