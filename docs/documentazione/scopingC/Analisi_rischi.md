@@ -11,10 +11,11 @@ table {
 }
 
 
-div{
+.div{
     padding:10px;
     margin:10px;
 }
+
 .medium { background-color:rgba(252, 227, 3, 0.3);border-top-style: solid;
 border-top-width: 2px;border-top-color: rgb(252, 227, 3);}
 
@@ -28,23 +29,23 @@ border-top-width: 2px;}
 border-top-width: 2px;}
 </style>
 
-<div class ="low">
+<div class ="low div">
 <strong>Nota:</strong> Questo è un blocco note importante.
 </div>
 
-<div class ="medium_low">
+<div class ="medium_low div">
 <strong>Nota:</strong> Questo è un blocco note importante.
 </div>
 
-<div class ="medium">
+<div class ="medium div">
 <strong>Nota:</strong> Questo è un blocco note importante.
 </div>
 
-<div class ="medium_high">
+<div class ="medium_high div">
 <strong>Nota:</strong> Questo è un blocco note importante.
 </div>
 
-<div class ="high">
+<div class ="high div">
 <strong>Nota:</strong> Questo è un blocco note importante.
 </div>
 

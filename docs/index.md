@@ -47,12 +47,7 @@ Il gioco dovrà essere pronto entro il mese di giugno dell'anno di uscita, ovver
     5. [Closing](./documentazione/closing.md)
 
 
-<style>
-  ol { counter-reset: item }
-  li { display: block }
-  li:before { content: counters(item, ".") ". "; counter-increment: item }
-  ol ol { counter-reset: item }
-</style>
+
 
 
 
