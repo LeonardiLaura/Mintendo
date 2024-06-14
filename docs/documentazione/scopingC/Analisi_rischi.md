@@ -3,9 +3,7 @@
 
 <style type="text/css">
 
-.column {
-    width: 100%;
-}
+
 table {
     border-collapse: collapse;
     table-layout: fixed;
@@ -66,11 +64,11 @@ border-top-width: 2px;}
         <th colspan="5">Probabilità</th>
     </tr>
     <tr>
-        <th class="column">Irrilevante</th>
-        <th class="column">Bassa</th>
-        <th class="column">Moderata</th>
-        <th class="column">Alta</th>
-        <th class="column">Estrema</th>
+        <th width="20%">Irrilevante</th>
+        <th width="20%">Bassa</th>
+        <th width="20%">Moderata</th>
+        <th width="20%">Alta</th>
+        <th width="20%">Estrema</th>
     </tr>
     <tr>
         <th rowspan="5">Impatto</th>
