@@ -5,5 +5,4 @@ github:
     name: MIT
   repository_url: "https://github.com/LeonardiLaura/PM"
 plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
+  - jekyll-include-cache
