@@ -30,27 +30,29 @@ border-top-width: 2px;}
 </style>
 
 <div class ="low div">
-<strong>Nota:</strong> Questo è un blocco note importante.
+<strong>Rischio basso:</strong> Questo è un blocco note importante.
 </div>
 
 <div class ="medium_low div">
-<strong>Nota:</strong> Questo è un blocco note importante.
+<strong>Rischio medio basso:</strong> Questo è un blocco note importante.
 </div>
 
 <div class ="medium div">
-<strong>Nota:</strong> Questo è un blocco note importante.
+<strong>Rischio medio:</strong> Questo è un blocco note importante.
 </div>
 
 <div class ="medium_high div">
-<strong>Nota:</strong> Questo è un blocco note importante.
+<strong>Rischio medio alto:</strong> Questo è un blocco note importante.
 </div>
 
 <div class ="high div">
-<strong>Nota:</strong> Questo è un blocco note importante.
+<strong>Rischio alto:</strong> Questo è un blocco note importante.
 </div>
 
 
-
+<p align="center">
+  <img src="../../img/tabella_finale.png" alt="Tabella rischi"/>
+</p>
 
 
 
