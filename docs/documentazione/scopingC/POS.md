@@ -21,4 +21,78 @@ Lo scopo del progetto è la creazione del remake di un videogioco, Dibimon Cobal
 
 
 
+<table>
+    <tr>
+        <th>Obiettivi</th>
+        <th>Rischi</th>
+        <th>Criteri di successo</th>
+    </tr>
+    <tr>
+        <td>Consegnare il prodotto nei tempi stabiliti</td>
+        <td>Incontrare problemi di varia natura (tecnologici, organizzativi o dovuti ad un'aggiunta massiccia di funzionalità)</td>
+        <td>Consegnare il prodotto entro il 06/27</td>
+    </tr>
+    <tr>
+        <td>Creare un'esperienza di gioco simile a quella del videogioco originale aggiungendo funzionalità innovative e moderne che rendano il videogioco godibile secondo gli standard odierni</td>
+        <td>
+            <ul>
+                <li>Ottenere un videogioco troppo lontano dai moderni standard</li>
+                <li>Ottenere un prodotto non in linea con le aspettative degli appassionati di lunga data</li>
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li>Vendere un numero di copie pari o superiore ai 3,5 milioni per ogni categoria di utente entro 3 mesi dal lancio</li>
+                <li>Ottenere delle valutazioni con un voto medio di 85 su 100 da parte delle testate giornalistiche del settore</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>Realizzazione quattro trailer</td>
+        <td>
+            <ul>
+                <li>Non ottenere la visibilità desiderata</li>
+                <li>Bilanciare i contenuti all'interno dei trailer in modo che essi stimolino curiosità</li>
+                <li>Prestare attenzione ai contenuti mostrati all'interno dei trailer in modo che non siano rivelati eccessivamente</li>
+                <li>Mancata approvazione del trailer da parte di Mintendo e mancanza di tempo per effettuare le modifiche necessarie</li>
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li>Ultimare i trailer entro le seguenti date: 02-06-09-11/27</li>
+                <li>Ottenere un numero di like per ogni trailer pari a 1/10 delle visualizzazioni ottenute sui vari social</li>
+                <li>Ottenere un numero di visualizzazioni per ogni trailer totale maggiore o uguale a 2 milioni entro un mese dall'uscita del trailer sommando le visualizzazioni sui vari social</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>Realizzazione demo</td>
+        <td>
+            <ul>
+                <li>Data mining sul contenuto del gioco</li>
+                <li>Bilanciare i contenuti all'interno della demo in modo che stimoli curiosità</li>
+                <li>Prestare attenzione ai contenuti mostrati all'interno della demo in modo che non siano rivelati eccessivamente</li>
+                <li>Mancata approvazione della demo da parte di Mintendo e mancanza di tempo per effettuare le modifiche necessarie</li>
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li>Ultimare la demo entro il 09/27</li>
+                <li>Ottenere l'80% di recensioni positive, ovvero uguali o maggiori di 3 stelle su 5, tramite sondaggi</li>
+                <li>Ottenere un numero di download maggiore o uguale a 2 milioni entro un mese dall'uscita della demo</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>Gestione interazione con altri dispositivi</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Bug fix post lancio</td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+
 [Menu](../../index.md)
