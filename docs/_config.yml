@@ -6,11 +6,9 @@ github:
   repository_url: "https://github.com/LeonardiLaura/PM"
 plugins:
   - jekyll-include-cache
-defaults:
-  # _docs
-  - scope:
-      path: ""
-      type: docs
-    values:
-      sidebar:
-        nav: "docs"
+
+
+
+# Enable sidebar navigation
+sidebar:
+  nav: sidebar-nav.yml
