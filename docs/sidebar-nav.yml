@@ -1,0 +1,19 @@
+# sidebar-nav.yml
+
+main:
+  - title: Home
+    url: /
+
+  - title: About
+    url: /about/
+
+  - title: Blog
+    url: /blog/
+    children:
+      - title: Archive
+        url: /blog/archive/
+      - title: Categories
+        url: /blog/categories/
+
+  - title: Contact
+    url: /contact/
