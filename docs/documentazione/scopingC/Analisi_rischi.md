@@ -3,6 +3,9 @@
 
 <style type="text/css">
 
+.column {
+    width: 100%;
+}
 table {
     border-collapse: collapse;
     table-layout: fixed;
@@ -17,6 +20,7 @@ th, td {
 
 div{
     padding:10px;
+    margin:10px;
 }
 .medium { background-color:rgba(252, 227, 3, 0.3);border-top-style: solid;
 border-top-width: 2px;border-top-color: rgb(252, 227, 3);}
@@ -62,11 +66,11 @@ border-top-width: 2px;}
         <th colspan="5">Probabilità</th>
     </tr>
     <tr>
-        <th>Irrilevante</th>
-        <th>Bassa</th>
-        <th>Moderata</th>
-        <th>Alta</th>
-        <th>Estrema</th>
+        <th class="column">Irrilevante</th>
+        <th class="column">Bassa</th>
+        <th class="column">Moderata</th>
+        <th class="column">Alta</th>
+        <th class="column">Estrema</th>
     </tr>
     <tr>
         <th rowspan="5">Impatto</th>
