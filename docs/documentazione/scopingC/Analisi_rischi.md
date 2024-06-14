@@ -10,11 +10,6 @@ table {
     width: 100%;
 }
 
-th, td {
-    border: 1px solid #ddd;
-    text-align: center;
-    height: 100px; /* Altezza delle celle */
-}
 
 div{
     padding:10px;
@@ -64,11 +59,11 @@ border-top-width: 2px;}
         <th colspan="5">Probabilità</th>
     </tr>
     <tr>
-        <th width="20%">Irrilevante</th>
-        <th width="20%">Bassa</th>
-        <th width="20%">Moderata</th>
-        <th width="20%">Alta</th>
-        <th width="20%">Estrema</th>
+        <th >Irrilevante</th>
+        <th >Bassa</th>
+        <th >Moderata</th>
+        <th >Alta</th>
+        <th >Estrema</th>
     </tr>
     <tr>
         <th rowspan="5">Impatto</th>
