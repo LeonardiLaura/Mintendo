@@ -16,8 +16,8 @@ table {
 }
 
 td,tr,th{
-    width: 20% !important;
-    height: 500% !important;
+    width: 200px !important;
+    height: 200px !important;
 }
 
 .div{
