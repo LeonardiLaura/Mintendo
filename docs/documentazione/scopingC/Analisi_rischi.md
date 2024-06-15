@@ -2,11 +2,13 @@
 
 
 <style type="text/css">
-
-h3 {
+    
+h1,h2,h3 {
     margin:0px;
     padding:0px;
+    color:#fff;
 }
+
 table {
     border-collapse: collapse;
     table-layout: fixed;
@@ -171,7 +173,6 @@ border-top-width: 2px;}
 <strong> Motivazione alla stima del rischio:</strong> </br>
 <strong> Gestione Rischio:</strong>  
 </div>
-
 
 
 
