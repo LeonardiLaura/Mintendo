@@ -2,11 +2,11 @@
 
 
 <style type="text/css">
-    
+
 h1,h2,h3 {
     margin:0px;
     padding:0px;
-    color:#fff;
+    color:#fff !important;
 }
 
 table {
