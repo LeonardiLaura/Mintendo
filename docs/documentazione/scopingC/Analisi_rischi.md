@@ -119,89 +119,9 @@ border-top-width: 2px;}
 
 
 
-
-
-
-
-<div class ="low div">
-<h3> 1.1 b</h3></br>
-<strong> Rischio:</strong> incontrare problemi di natura organizzativa che impediscano il rispetto dei tempi di consegna.</br>
-<strong> Probabilità:</strong> Alta 
-<strong> Impatto:</strong> Catastrofico 
-<strong> Stima del rischio:</strong> 20 </br>
-<strong> Motivazione alla stima del rischio:</strong> </br>
-<strong> Gestione Rischio:</strong>    
-</div>
-
-<div class ="medium_low div">
-<h3> 1.1 b</h3></br>
-<strong> Rischio:</strong> incontrare problemi di natura organizzativa che impediscano il rispetto dei tempi di consegna.</br>
-<strong> Probabilità:</strong> Alta 
-<strong> Impatto:</strong> Catastrofico 
-<strong> Stima del rischio:</strong> 20 </br>
-<strong> Motivazione alla stima del rischio:</strong> </br>
-<strong> Gestione Rischio:</strong>   
-</div>
-
 <div class ="medium div">
-<h3> 1.1 b</h3></br>
-<strong> Rischio:</strong> incontrare problemi di natura organizzativa che impediscano il rispetto dei tempi di consegna.</br>
-<strong> Probabilità:</strong> Alta 
-<strong> Impatto:</strong> Catastrofico 
-<strong> Stima del rischio:</strong> 20 </br>
-<strong> Motivazione alla stima del rischio:</strong> </br>
-<strong> Gestione Rischio:</strong>   
-</div>
-
-<div class ="medium_high div">
-<h3> 1.1 b</h3></br>
-<strong> Rischio:</strong> incontrare problemi di natura organizzativa che impediscano il rispetto dei tempi di consegna.</br>
-<strong> Probabilità:</strong> Alta 
-<strong> Impatto:</strong> Catastrofico 
-<strong> Stima del rischio:</strong> 20 </br>
-<strong> Motivazione alla stima del rischio:</strong> </br>
-<strong> Gestione Rischio:</strong>  
-</div>
-
-
-<div class ="high div">
-<h3> 1.1 b</h3></br>
-<strong> Rischio:</strong> incontrare problemi di natura organizzativa che impediscano il rispetto dei tempi di consegna.</br>
-<strong> Probabilità:</strong> Alta 
-<strong> Impatto:</strong> Catastrofico 
-<strong> Stima del rischio:</strong> 20 </br>
-<strong> Motivazione alla stima del rischio:</strong> </br>
-<strong> Gestione Rischio:</strong>  
-</div>
-
-
-
---------------------------------------------------------
---------------------------------------------------------
---------------------------------------------------------
---------------------------------------------------------
---------------------------------------------------------
---------------------------------------------------------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class ="medium div">
-<h3> 1.1 a</h3></br>
-<strong> Rischio:</strong> incontrare problemi di natura tecnologica che impediscano il rispetto dei tempi di consegna.</br>
+<h3> 1.1 a</h3><br>
+<strong> Rischio:</strong> incontrare problemi di natura tecnologica che impediscano il rispetto dei tempi di consegna.<br>
 <strong> Probabilità:</strong> Bassa 
 <strong> Impatto:</strong> Maggiore 
 <strong> Stima del rischio:</strong> 8</br>
