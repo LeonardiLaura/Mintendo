@@ -15,9 +15,9 @@ table {
     width: 100%;
 }
 
-td,tr{
-    width: 75px !important;
-    height: 75px !important;
+td,tr,th{
+    width: 20% !important;
+    height: 500% !important;
 }
 
 .div{
