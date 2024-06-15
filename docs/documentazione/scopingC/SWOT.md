@@ -34,8 +34,9 @@ Fluttuazioni del mercato:
 h1,h2,h3 {
     margin-top:0px;
     padding:0px;
-    color:#fff;
+    color:#fff !important; 
 }
+
 table {
     border-collapse: collapse;
     table-layout: fixed;
