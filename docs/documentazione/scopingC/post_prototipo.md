@@ -15,7 +15,7 @@
 
 .modifica { 
     color:rgb(252, 227, 3) !important;
-    //padding-left: 20%;
+    padding-left: 20%;
     border-bottom: solid !important;
     border-width: 1px !important;
 }
@@ -27,7 +27,7 @@
 }
 .elimina { 
     color:rgb(250, 0, 0) !important;
-    //padding-left: 20%;
+    padding-left: 20%;
     border-bottom: solid !important;
     border-width: 1px !important;
 }
