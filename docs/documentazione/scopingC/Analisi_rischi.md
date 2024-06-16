@@ -1,6 +1,4 @@
 
-
-
 <style type="text/css">
 
 h1,h2,h3 {
@@ -158,7 +156,7 @@ border-top-width: 2px;}
 
 
 <div class ="medium div">
-<h3> 2.1</h3><br>
+<h3> 1.2</h3><br>
 <strong> Rischio:</strong> ottenere un videogioco troppo lontano dai moderni standard.<br>
 <strong> Probabilità:</strong> Bassa 
 <strong> Impatto:</strong> Maggiore 
@@ -170,7 +168,7 @@ border-top-width: 2px;}
 
 
 <div class ="medium div">
-<h3> 2.2 </h3><br>
+<h3> 1.3 </h3><br>
 <strong> Rischio:</strong> ottenere un prodotto non in linea con le aspettative degli appassionati di lunga data.<br>
 <strong> Probabilità:</strong> Alta 
 <strong> Impatto:</strong> Minore 
@@ -182,7 +180,7 @@ border-top-width: 2px;}
 
 
 <div class ="medium_low div">
-<h3> 3.1</h3><br>
+<h3> 2.1</h3><br>
 <strong> Rischio:</strong> non riuscire a bilanciare i contenuti all'interno dei trailer in modo che essi stimolino curiosità.<br>
 <strong> Probabilità:</strong> Irrilevante 
 <strong> Impatto:</strong> Minore 
@@ -194,7 +192,7 @@ border-top-width: 2px;}
 
 
 <div class ="medium div">
-<h3> 3.2 </h3><br>
+<h3> 2.2 </h3><br>
 <strong> Rischio:</strong> 
 Mostrare troppi contenuti all'interno dei trailer che rivelano eccessivamente le caratteristiche del videogioco.<br>
 <strong> Probabilità:</strong> Moderata 
@@ -206,7 +204,7 @@ Mostrare troppi contenuti all'interno dei trailer che rivelano eccessivamente le
 
 
 <div class ="medium div">
-<h3> 3.3 </h3><br>
+<h3> 2.3 </h3><br>
 <strong> Rischio:</strong> mancata approvazione del trailer da parte di Mintendo e mancanza di tempo per effettuare le modifiche necessarie.<br>
 <strong> Probabilità:</strong> Moderata 
 <strong> Impatto:</strong> Moderato 
@@ -218,7 +216,7 @@ Mostrare troppi contenuti all'interno dei trailer che rivelano eccessivamente le
 
 
 <div class ="medium_high div">
-<h3> 4.1 </h3><br>
+<h3> 3.1 </h3><br>
 <strong> Rischio:</strong> data mining sul contenuto del gioco.<br>
 <strong> Probabilità:</strong> Estrema 
 <strong> Impatto:</strong> Moderato 
@@ -233,7 +231,7 @@ Mostrare troppi contenuti all'interno dei trailer che rivelano eccessivamente le
 
 
 <div class ="medium_low div">
-<h3> 4.2 </h3><br>
+<h3> 3.2 </h3><br>
 <strong> Rischio:</strong> la demo potrebbe non essere abbastanza coinvolgente o interessante da convincere i giocatori a comprare il gioco completo.<br>
 <strong> Probabilità:</strong> Irrilevante 
 <strong> Impatto:</strong> Maggiore 
@@ -245,7 +243,7 @@ Mostrare troppi contenuti all'interno dei trailer che rivelano eccessivamente le
 
 
 <div class ="medium_low div">
-<h3> 4.3 </h3><br>
+<h3> 3.3 </h3><br>
 <strong> Rischio:</strong> 
 La demo potrebbe rivelare troppi dettagli della trama o dei contenuti del gioco, riducendo l'interesse dei giocatori per il gioco completo.<br>
 <strong> Probabilità:</strong> Moderata 
@@ -257,7 +255,7 @@ La demo potrebbe rivelare troppi dettagli della trama o dei contenuti del gioco,
 
 
 <div class ="medium_high div">
-<h3> 4.4 </h3><br>
+<h3> 3.4 </h3><br>
 <strong> Rischio:</strong> mancata approvazione della demo da parte di Mintendo e mancanza di tempo per effettuare le modifiche necessarie.<br>
 <strong> Probabilità:</strong> Moderata 
 <strong> Impatto:</strong> Maggiore 
@@ -268,7 +266,7 @@ La demo potrebbe rivelare troppi dettagli della trama o dei contenuti del gioco,
 
 
 <div class ="medium_high div">
-<h3> 5.1 </h3><br>
+<h3> 4.1 </h3><br>
 <strong> Rischio:</strong> formato dati non compatibile e conseguente necessità di conversione per l'interazione con altri dispositivi.<br>
 <strong> Probabilità:</strong> Moderata 
 <strong> Impatto:</strong> Maggiore 
@@ -278,7 +276,7 @@ La demo potrebbe rivelare troppi dettagli della trama o dei contenuti del gioco,
 </div>
 
 <div class ="medium_high div">
-<h3> 6.1 </h3><br>
+<h3> 5.1 </h3><br>
 <strong> Rischio:</strong> gli errori critici rilevati dopo il lancio sono di grande portata e non correggibili in tempi brevi.<br>
 <strong> Probabilità:</strong> Bassa 
 <strong> Impatto:</strong> Catastrofico 
@@ -289,7 +287,7 @@ La demo potrebbe rivelare troppi dettagli della trama o dei contenuti del gioco,
 
 
 <div class ="medium div">
-<h3> 6.2 a </h3><br>
+<h3> 5.2 a </h3><br>
 <strong> Rischio:</strong> le nuove funzionalità online aggiunte dopo il lancio non suscitano l'interesse sperato.<br>
 <strong> Probabilità:</strong> Bassa 
 <strong> Impatto:</strong> Moderato 
@@ -299,7 +297,8 @@ La demo potrebbe rivelare troppi dettagli della trama o dei contenuti del gioco,
 </div>
 
 <div class ="medium div">
-<h3> 6.2 b </h3><br>
+<h3> 5
+.2 b </h3><br>
 <strong> Rischio:</strong> e nuove funzionalità online aggiunte dopo il lancio introducono errori.<br>
 <strong> Probabilità:</strong> Bassa 
 <strong> Impatto:</strong> Maggiore 
