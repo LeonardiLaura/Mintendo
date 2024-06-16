@@ -32,7 +32,7 @@
     border-width: 1px !important;
 }
 .ok { 
-    color:rgb(53, 3, 252) !important;
+    color:rgb(80, 36, 255) !important;
     padding-left: 20%;
     border-bottom: solid !important;
     border-width: 1px !important;
