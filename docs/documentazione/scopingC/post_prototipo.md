@@ -43,7 +43,7 @@
 
 <div >
     <div class="split3">
-        <p ><h2 class="elimina">Eliminare</h2></p>
+        <h2 class="elimina">Eliminare</h2>
         <p>
             <ul>
                 <li> struttura a griglia dalle mappe </li>
@@ -81,5 +81,6 @@
             </ul>
         </p>
     </div>
+    <div class="clearer"> </div>
 </div>
 
