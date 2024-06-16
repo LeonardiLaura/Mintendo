@@ -1,31 +1,28 @@
 
-
-
 <style>
-div.split3 div{
+.split3 {
     float: left;
-    width: 30%;
-    width: 25%;
+    
     width: 23%;
     padding: 0 1%
     }
 
-div.clearer{
+.clearer{
     float: none; clear: left
     }
 
 
 
-.modifica { color:rgb(252, 227, 3);}
-.mantieni { color:rgb(0, 175, 0); }
-.elimina { color:rgb(250, 0, 0);}
-.ok { color:rgb(0, 0, 250);}
+.modifica { color:rgb(252, 227, 3) !important;}
+.mantieni { color:rgb(0, 175, 0) !important; }
+.elimina { color:rgb(250, 0, 0) !important;}
+.ok { color:rgb(0, 0, 250) !important;}
 
 
 </style>
 
-<div class="split3">
-    <div>
+<div >
+    <div class="split3">
         <h2 class="elimina">Eliminare</h2>
         <p>
             <ul>
@@ -34,7 +31,7 @@ div.clearer{
             </ul>
         </p>
     </div>
-    <div>
+    <div class="split3" >
         <h2 class="modifica">Modificare</h2>
         <p>
             <ul>
@@ -44,7 +41,7 @@ div.clearer{
             </ul>
         </p>
     </div>
-    <div>
+    <div class="split3">
         <h2 class="mantieni"> Mantenere</h2>
         <p>
             <ul>
@@ -55,7 +52,7 @@ div.clearer{
             </ul>
         </p>
     </div>
-    <div>
+    <div class="split3">
         <h2 class="ok">Aggiungere </h2>
         <p>
             <ul>
