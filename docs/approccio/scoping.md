@@ -25,4 +25,8 @@ RBS
 La scelta del PLMC è ricaduta sul modello iterativo, in quanto abbiamo chiarezza nei goal ma non nei requisiti.
 
 
+A causa dell'incertezza riguardo ai requisiti, si è pensato di creare un prototipo, da cui sono emersi savariati requisiti, elencati nel documento allegato, disponibile [qui](../documentazione/scopingC/post_prototipo.md)
+
+prototipo??????
+
 [Menu](../index.md)
