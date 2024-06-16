@@ -3,8 +3,8 @@
 .split3 {
     float: left;
     
-    width: 23%;
-    padding: 0 1%
+    width: 24%;
+    padding: 0 0.5%
     }
 
 .clearer{
@@ -13,17 +13,37 @@
 
 
 
-.modifica { color:rgb(252, 227, 3) !important;}
-.mantieni { color:rgb(0, 175, 0) !important; }
-.elimina { color:rgb(250, 0, 0) !important;}
-.ok { color:rgb(0, 0, 250) !important;}
+.modifica { 
+    color:rgb(252, 227, 3) !important;
+    padding-left: 20%;
+    border-bottom: solid !important;
+    border-width: 1px !important;
+}
+.mantieni { 
+    color:rgb(0, 175, 0) !important; 
+    padding-left: 20%;
+    border-bottom: solid !important;
+    border-width: 1px !important;
+}
+.elimina { 
+    color:rgb(250, 0, 0) !important;
+    padding-left: 20%;
+    border-bottom: solid !important;
+    border-width: 1px !important;
+}
+.ok { 
+    color:rgb(0, 0, 250) !important;
+    padding-left: 20%;
+    border-bottom: solid !important;
+    border-width: 1px !important;
+}
 
 
 </style>
 
 <div >
     <div class="split3">
-        <h2 class="elimina">Eliminare</h2>
+        <p ><h2 class="elimina">Eliminare</h2></p>
         <p>
             <ul>
                 <li> struttura a griglia dalle mappe </li>
@@ -61,6 +81,5 @@
             </ul>
         </p>
     </div>
-    <div class="clearer"> </div>
 </div>
 
