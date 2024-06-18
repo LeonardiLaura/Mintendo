@@ -17,6 +17,11 @@ A seguito dello sviluppo dei documenti precedentemente descritti, questi sono st
 
 Di conseguenza alla poca chiarezza sui requisiti del progetto, in particolare sulle funzionalità innovative da integrare nel videogioco, la scelta del PLMC è ricaduta su un approccio di tipo Agile sul modello iterativo, in quanto abbiamo chiarezza nei goal ma non nei requisiti, che potrebbero cambiare a cause delle interazioni con Mintendo e utenti finali.
 
+
+
+<p align="center">
+  <img src="../img/iterativo.png" alt="Modello iterativo" />
+</p>
 IMMAGINE MODELLO ITERATIVO
 
 PERCHé AGILE è FIGO? VANTAGGI MODELLO ITERATIVO
