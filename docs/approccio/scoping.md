@@ -22,9 +22,6 @@ Di conseguenza alla poca chiarezza sui requisiti del progetto, in particolare su
 <p align="center">
   <img src="../img/iterativo.png" alt="Modello iterativo" />
 </p>
-IMMAGINE MODELLO ITERATIVO
 
-PERCHé AGILE è FIGO? VANTAGGI MODELLO ITERATIVO
--iterativo e non incrementale perchè lo scope non cambia
 
 [Menu](../index.md)
