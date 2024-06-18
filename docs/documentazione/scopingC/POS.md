@@ -112,4 +112,6 @@ Lo scopo del progetto è la creazione del remake di un videogioco, Dibimon Cobal
     <li>Non avremo la possibilità di avviare altri progetti nei prossimi 4 anni a causa dell'impegno totale della nostra forza lavoro nel progetto Dibimon Cobalto.</li>
 </ul>
 
+
+
 [Menu](../../index.md)
