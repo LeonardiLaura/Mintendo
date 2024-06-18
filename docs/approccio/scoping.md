@@ -20,7 +20,7 @@ Di conseguenza alla poca chiarezza sui requisiti del progetto, in particolare su
 
 
 <p align="center">
-  <img src="../img/iterativo.png" alt="Modello iterativo" />
+  <img src="../img/Iterativo.png" alt="Modello iterativo" />
 </p>
 
 
