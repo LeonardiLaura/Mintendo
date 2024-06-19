@@ -15,4 +15,12 @@ I processi consentono di:
 
 spendo + che nello scoping, non ancora confermato che sarò pagato ma meglio qua che poi
 
+
+scrivere da qualche parte come abbiamo fatto le stime
+
+- Project Definition Statement (PDS)
+- WBS
+- Gantt + project network diagram
+- cash flow
+
 [Menu](../index.md)
