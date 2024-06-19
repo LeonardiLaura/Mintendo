@@ -21,7 +21,7 @@ scrivere da qualche parte come abbiamo fatto le stime
 
 - [WBS](../documentazione/planningC/wbs.md)
 - [Analisi MoSCoW](../documentazione/planningC/moscow.md)
-- Gantt + project network diagram
-- cash flow
+- [Gantt + project network diagram](../documentazione/planningC/gantt.md)
+- [cash flow](../documentazione/planningC/cash_flow.md)
 
 [Menu](../index.md)
