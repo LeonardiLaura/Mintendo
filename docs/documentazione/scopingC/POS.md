@@ -36,9 +36,10 @@ Lo scopo del progetto è la creazione del remake di un videogioco, Dibimon Cobal
         <td>2. Realizzazione dei quattro trailer.</td>
         <td>
             <ol>
-                <li>Bilanciare i contenuti per suscitare curiosità senza rivelare troppo del gioco.</li>
+                <li>Bilanciare correttamente i contenuti per suscitare curiosità senza rivelare troppo del gioco.</li>
                 <li>Mostrare troppi contenuti all'interno dei trailer che rivelano eccessivamente le caratteristiche del videogioco.</li>
                 <li>Mancata approvazione del trailer da parte di Mintendo e mancanza di tempo per effettuare le modifiche necessarie.</li>
+                <li>Inesperienza con trailer di natura cinematica.</li>
             </ol>
         </td>
         <td>
@@ -52,7 +53,7 @@ Lo scopo del progetto è la creazione del remake di un videogioco, Dibimon Cobal
         <td>3. Realizzazione della demo.</td>
         <td>
             <ol>
-                <li>Data mining sul contenuto del gioco</li>
+                <li>Data mining sul contenuto del gioco.</li>
                 <li>Possibili criticità nella demo che potrebbero compromettere l'interesse dei giocatori per il gioco completo.</li>
                 <li>Evitare di rivelare troppi dettagli della trama o dei contenuti principali del gioco completo.</li>
                 <li>Mancata approvazione della demo da parte di Mintendo e mancanza di tempo per effettuare le modifiche necessarie.</li>
@@ -92,7 +93,7 @@ Lo scopo del progetto è la creazione del remake di un videogioco, Dibimon Cobal
             <ol>
                 <li>Il 100% degli errori critici vengono corretti entro 2 settimane dalla segnalazione.</li>
                 <li>Il 75% degli errori di importanza secondaria vengono corretti entro un mese dalla segnalazione.</li>
-                <li> nella settimana del lancio delle nuove funzionalità si registra un aumento dei giocatori attivi del 400%.</li>
+                <li> Nella settimana del lancio delle nuove funzionalità si registra un aumento dei giocatori attivi del 400%.</li>
             </ol>
         </td>
     </tr>
@@ -111,7 +112,5 @@ Lo scopo del progetto è la creazione del remake di un videogioco, Dibimon Cobal
     <li>Tra la consegna del software e la release effettiva, sarà effettuato un processo di testing completo per identificare e risolvere eventuali problemi prima del lancio.</li>
     <li>Non avremo la possibilità di avviare altri progetti nei prossimi 4 anni a causa dell'impegno totale della nostra forza lavoro nel progetto Dibimon Cobalto.</li>
 </ul>
-
-
 
 [Menu](../../index.md)
