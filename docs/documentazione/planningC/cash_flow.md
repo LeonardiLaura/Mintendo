@@ -1,6 +1,7 @@
-| | | | | | |
-|-|-|-|-|-|-|
+
+
 |date|flusso in entrata|flusso in uscita|totale entrata|totale uscita|totale|
+|-|-|-|-|-|-|
 |2024-09|6500000|1304000|6500000|1304000|5196000|
 |2024-10| |1304000|6500000|2608000|3892000|
 |2024-11|3000000|1304000|9500000|3912000|5588000|
@@ -58,10 +59,12 @@
 |2029-03|500000|184000|73000000|57942500|15057500|
 |2029-04|500000|184000|73500000|58126500|15373500|
 |2029-05|1500000|184000|75000000|58310500|16689500|
-| | | | | | |
 
+<p align="center">
+  <img src="../../img/cash.png" alt="Grafico cash flow" />
+</p>
 
-| | |
+| motivazione | costo |
 |-|-|
 |costo mensile infrastrutture (bollette etc)|54000|
 |costo mensile totale senior|4000|
