@@ -18,8 +18,9 @@ spendo + che nello scoping, non ancora confermato che sarò pagato ma meglio qua
 
 scrivere da qualche parte come abbiamo fatto le stime
 
-- Project Definition Statement (PDS)
-- WBS
+
+- [WBS](../documentazione/planningC/wbs.md)
+- [Analisi MoSCoW](../documentazione/planningC/moscow.md)
 - Gantt + project network diagram
 - cash flow
 
