@@ -48,4 +48,5 @@ Si tenta di raggiunge il consenso entro 3 turni, se ciò non avviene il facilita
 
 
 
+
 [Menu](../index.md)

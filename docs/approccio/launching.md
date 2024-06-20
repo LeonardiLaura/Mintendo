@@ -13,6 +13,7 @@ natura eterogenea;
  ● Finalizzare i “work packages” (i.e., componenti in cui è decomposto il 
 lavoro da svolgere)
 
-
+- Procuct backlog
+- RASCI
 
 [Menu](../index.md)
