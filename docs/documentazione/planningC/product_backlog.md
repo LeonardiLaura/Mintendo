@@ -10,7 +10,7 @@ responsabili team riportano punteggi
 
 
 
-| TaskPriority | Descrizione | Dimensione stimata |  Milestone 1 | Milestone 2|Milestone 3|Milestone 4|Milestone 5|Milestone 6|Milestone 7|Milestone 8|Milestone 9|Milestone 10| Milestone 11| Milestone 12|Milestone 13|Milestone 14|Milestone 15|Milestone 16|Milestone 17|Milestone 18|Milestone 19|Milestone 20|
+| FeaturePriority | Descrizione | Dimensione stimata |  Milestone 1 | Milestone 2|Milestone 3|Milestone 4|Milestone 5|Milestone 6|Milestone 7|Milestone 8|Milestone 9|Milestone 10| Milestone 11| Milestone 12|Milestone 13|Milestone 14|Milestone 15|Milestone 16|Milestone 17|Milestone 18|Milestone 19|Milestone 20|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 | 1 |Ribilanciare gli aspetti del gioco originale carenti dal punto di vista degli ambienti | 8 | | | | | | | | | | | | | | | | | | | | |
 | 2 |Aggiungere nuove tipologie e modifica Dibimon secondo le nuove tipologie| 13 | | | | | | | | | | | | | | | | | | | | |
@@ -61,13 +61,105 @@ responsabili team riportano punteggi
 | 47 | Rilasciare periodicamente nuove regolamenti per le sfide online | 13 | | | | | | | | | | | | | | | | | | | | |
 
 
-
-
-
+| Valore | Giorni uomo |
+|-|-|
+| 0 | 1 |
+| 1 | 2 |
+| 2 | 4 |
+| 3 | 7 |
+| 5 | 17 |
+| 8 | 37 |
+| 13 | 85 |
+| 21 | 196 |
+| 34 | 450 |
+| 55 | 1034 |
+| 89 | 2380 |
 
 Qua interno al team, 
 
 
-| TaskID | Descrizione | TaskID | suddivisione in task | dimensione task|
-|-|-|-|-|-|
-| | | | | |
+
+<table>
+    <tr>
+        <th >Feature id           </th>
+        <th >team coinvolti       </th>
+        <th >Descrizione          </th>
+        <th >Suddivisione in task </th>
+        <th >Dimensione task      </th>
+        <th >Dimensione feature   </th>
+    </tr>
+    <tr>
+        <td rowspan="5">3</td>
+        <td rowspan="5">software + balancing </td>
+        <td rowspan="5">Ribilanciare gli aspetti del gioco originale carenti dal punto di vista della difficoltà di gioco </td>
+        <td>Studio accurato della difficoltà di gioco </td>
+        <td></td>
+        <td rowspan="5"></td>
+    </tr>
+    <tr>
+        <td> Individuazione punti deboli della difficoltà di gioco </td>
+        <td></td>
+    </tr>
+    <tr>
+        <td> Ribilanciamento curva di difficoltà  </td>
+        <td></td>
+    </tr>
+    <tr>
+        <td> Ribilanciamento distribuzione Dibimon nelle aree di gioco </td>
+        <td></td>
+    </tr>
+    <tr>
+        <td> Implementare sistema di consigli nel caso si rimanga bloccati durante il gioco </td>
+        <td></td>
+    </tr>
+    <tr>
+        <td rowspan="6">22</td>
+        <td rowspan="6"> grafica 3D </td>
+        <td rowspan="6">Aggiungere scene animate nei momenti di apice del videogioco</td>
+        <td >Individuazione dei punti in cui aggiungere le scene animate</td>
+        <td ></td>
+        <td  rowspan="6"></td>
+    </tr>
+        <tr>
+        <td>Decisione contenuto scena animata </td>
+        <td></td>
+    </tr>
+    <tr>
+        <td> Creazione modelli 3D statici per scena animata</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td> Creazione modelli 3D dinamici per scena animata</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td> Animazione modelli 3D nella scena</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td> Voice acting scene animate</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td rowspan="4">27</td>
+        <td rowspan="4">software + gestione online </td>
+        <td rowspan="4">Implementazione sfide online </td>
+        <td >Implementazione sistema di ricerca sfidante </td>
+        <td></td>
+        <td  rowspan="4"></td>
+    </tr>
+        <tr>
+        <td> Implementazione sfide in competitiva </td>
+        <td></td>
+    </tr>
+    <tr>
+        <td> Implementazione sfide casuali </td>
+        <td></td>
+    </tr>
+    <tr>
+        <td> implementare menù per selezionare il tipo di battaglia </td>
+        <td></td>
+    </tr>
+</table>
+
+	
