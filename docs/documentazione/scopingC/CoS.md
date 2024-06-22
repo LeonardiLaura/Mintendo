@@ -82,7 +82,7 @@ La tabella seguente è organizzata in colonne che descrivono diversi aspetti del
     <tr>
         <td>Economica</td>
         <td>Rispetto del budget prefissato</td>
-        <td>$ 75 M</td>
+        <td>€ 60 M</td>
         <td>Monitorato</td>
     </tr>
     <tr>
