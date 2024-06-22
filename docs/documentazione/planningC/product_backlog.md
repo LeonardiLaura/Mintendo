@@ -42,7 +42,7 @@ responsabili team riportano punteggi
 | 28 |Individuare azienda per outsurcing trailer cinematico | 0 | | | | | | | | | | | | | | | | | | | | |
 | 29 |Individuare aree di gioco già sviluppate o quanto più possibile vincine al completamento dello sviluppo | 1 | | | | | | | | | | | | | | | | | | | | |
 | 30 |Meeting con Mintendo per determinare quali elementi esporre e quali no nei trailer | 1 | | | | | | | | | | | | | | | | | | | | |
-| 31 |Comporre trailer| > 21 | | | | | | | | | | | | | | | | | | | | |
+| 31 |Comporre trailer| 21 | | | | | | | | | | | | | | | | | | | | |
 | 32 |Determinare una sezione del videogioco su cui basare la demo |  1 | | | | | | | | | | | | | | | | | | | | |
 | 33 |Rimuovere gli aspetti del gioco non rilevanti per l'esperienza della demo| 26 | | | | | | | | | | | | | | | | | | | | |
 | 34 |Modifica elementi di trama per adattarli al contesto della demo|  39| | | | | | | | | | | | | | | | | | | | |
