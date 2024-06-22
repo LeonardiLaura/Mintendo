@@ -4,3 +4,4 @@
 
 # Gantt
 
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVK5Pz75g=/?moveToViewport=-1947,2270,5764,2631&embedId=597340757306" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
