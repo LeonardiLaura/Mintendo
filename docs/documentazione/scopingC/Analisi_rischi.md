@@ -37,7 +37,7 @@ border-top-width: 2px;}
 
 # Analisi dei rischi
 
-La tabella dei rischi riportata di seguito è stata strutturata per rappresentare in modo chiaro e dettagliato la probabilità e l'impatto di ciascun rischio identificato nel progetto. Ogni cella della tabella contiene una stima numerica del rischio, che è il risultato della combinazione tra la probabilità di accadimento e l'impatto sul progetto.
+La tabella dei rischi riportata di seguito è stata strutturata per rappresentare in modo chiaro e dettagliato la probabilità e l'impatto di ciascun rischio identificato nel progetto. Ogni cella della tabella contiene una stima numerica del rischio, che è il risultato della combinazione tra la probabilità di accadimento e l'impatto sul progetto. Alcuni rischi, data la loro natura, sono stati suddivisi in parti in modo da approfondire ogni aspetto singolarmente. 
 
 - Probabilità: La colonna delle probabilità è suddivisa in cinque categorie: Irrilevante (1), Bassa (2), Moderata (3), Alta (4) ed Estrema (5).
 - Impatto: La riga degli impatti è suddivisa in cinque livelli: Insignificante (1), Minore (2), Moderato (3), Maggiore (4) e Catastrofico (5).
@@ -47,7 +47,7 @@ Ogni cella della tabella contiene un numero che rappresenta la stima del rischio
 ## Livelli di rischio
 
 <div class ="low div">
-<strong>Rischio basso:</strong> I rischi in questa categoria sono di lieve entità e hanno un impatto minimo sugli obiettivi del progetto. Inoltre è improbabile che si realizzino e, di conseguenza, che influenzino significativamente la tempistica, il budget o la qualità del progetto.
+<strong>Rischio basso:</strong> I rischi in questa categoria sono di lieve entità e hanno un impatto minimo sugli obiettivi del progetto. Inoltre, è improbabile che si realizzino e, di conseguenza, che influenzino significativamente la tempistica, il budget o la qualità del progetto.
 </div>
 
 <div class ="medium_low div">
@@ -63,7 +63,7 @@ Ogni cella della tabella contiene un numero che rappresenta la stima del rischio
 </div>
 
 <div class ="high div">
-<strong>Rischio alto:</strong>  rischi ad alto livello sono sia molto probabili che fortemente impattanti, possono dunque compromettere in modo significativo il successo del progetto. Richiedono un piano di gestione dei rischi ben dettagliato e l'impegno costante del management. Un elevato numero di rischi di tale natura possono far desistere dall'intraprendere un progetto.
+<strong>Rischio alto:</strong> Rischi ad alto livello sono sia molto probabili che fortemente impattanti, possono dunque compromettere in modo significativo il successo del progetto. Richiedono un piano di gestione dei rischi ben dettagliato e l'impegno costante del management. Un elevato numero di rischi di tale natura può far desistere dall'intraprendere un progetto.
 </div>
 
 
@@ -137,8 +137,8 @@ Ogni cella della tabella contiene un numero che rappresenta la stima del rischio
 <strong> Probabilità:</strong> Bassa 
 <strong> Impatto:</strong> Maggiore 
 <strong> Stima del rischio:</strong> 8<br>
-<strong> Motivazione alla stima del rischio:</strong> la tecnologia è conosciuta, nonstante questo, vi è la possibilità che qualche problema emerga, e i tempi di consegna rappresentano un requisito alquanto stringente.<br>
-<strong> Gestione Rischio:</strong> Contingency Planning, conoscendo i nostri punti deboli riguardo alle tecnologie, si contatta un esperto nelle tecnologie più problematiche e si contratta un eventiale disponibilità. L'esperto è stato individuato all'interno della stessa Mintendo, in quanto sono i maggiori esperti della console da loro prodotta.
+<strong> Motivazione alla stima del rischio:</strong> La tecnologia è conosciuta, nonostante questo, vi è la possibilità che si verifichino problemi e i tempi di consegna rappresentano un requisito stringente.<br>
+<strong> Gestione Rischio:</strong> Contingency Planning.  Conoscendo i nostri punti deboli riguardo alle tecnologie, si contatta un esperto nelle tecnologie più problematiche e si contratta un eventuale disponibilità. L'esperto sarà individuato all'interno della stessa Mintendo, in quanto maggiori esperti della console da loro prodotta.
 </div>
 
 
@@ -149,7 +149,7 @@ Ogni cella della tabella contiene un numero che rappresenta la stima del rischio
 <strong> Impatto:</strong> Catastrofico 
 <strong> Stima del rischio:</strong> 20 <br>
 <strong> Motivazione alla stima del rischio:</strong> Questo progetto è il più grande tra quelli intrapresi dall'azienda, impiegherà tutti i dipendenti per un lungo periodo di tempo e i tempi di consegna rappresentano un requisito alquanto stringente.<br>
-<strong> Gestione Rischio:</strong> Mitigazione, si effettuerà fin da subito un'organizzazione dettagliata del lavoro, che comprenda un'attenta assegnazione dei compiti ai team, secondo le skill dei membri, nonchè un'attenta valutazione delle priorità delle varie task e della loro possibile parallelizzazione.
+<strong> Gestione Rischio:</strong> Mitigazione. Si effettuerà dalle fasi iniziali del progetto un'organizzazione dettagliata del lavoro, che comprenda un'attenta assegnazione dei compiti ai team, secondo le skill dei membri, nonchè un'attenta valutazione delle priorità delle varie task e della loro possibile parallelizzazione.
 </div>
 
 
@@ -158,10 +158,10 @@ Ogni cella della tabella contiene un numero che rappresenta la stima del rischio
 <h3> 1.1 c</h3><br>
 <strong> Rischio:</strong> Incontrare problemi dovuti all'aggiunta di nuove funzionalità che impediscano il rispetto dei tempi di consegna.<br>
 <strong> Probabilità:</strong> Alta 
-<strong> Impatto:</strong> Maggiiore 
+<strong> Impatto:</strong> Maggiore 
 <strong> Stima del rischio:</strong> 16 <br>
 <strong> Motivazione alla stima del rischio:</strong> Si è a conoscenza del fatto che i requisiti possono essere soggetti a cambiamenti dovuti sia al committente che ai desideri dell'utenza finale. Inoltre, i tempi di consegna sono molto stringenti.<br>
-<strong> Gestione Rischio:</strong> Mitigazione, fin dall'inizio del progetto si stabiliranno le date di meeting con il committente e con possibili suoi clienti, che avverranno in maniera frequente, in modo da individuare fin da subito eventuali problemi e le corrispondenti soluzioni.
+<strong> Gestione Rischio:</strong> Mitigazione. Fin dall'inizio del progetto si stabiliranno le date di meeting con il committente e con possibili suoi clienti, che avverranno in maniera frequente, in modo da individuare fin da subito eventuali problemi e le corrispondenti soluzioni.
 </div>
 
 
@@ -172,7 +172,7 @@ Ogni cella della tabella contiene un numero che rappresenta la stima del rischio
 <strong> Impatto:</strong> Maggiore 
 <strong> Stima del rischio:</strong> 8 <br>
 <strong> Motivazione alla stima del rischio:</strong> È cruciale attirare nuovi giocatori per mantenere attivo il brand, e come azienda abbiamo esperienza nel creare videogiochi che soddisfano l'utenza moderna.<br>
-<strong> Gestione Rischio:</strong> Mitigazione, fin dall'inizio del progetto si stabiliranno le date di meeting con possibili clienti target per effettuare usability test.
+<strong> Gestione Rischio:</strong> Mitigazione. Fin dall'inizio del progetto si stabiliranno le date di meeting con possibili clienti target per effettuare usability test.
 </div>
 
 
@@ -184,7 +184,7 @@ Ogni cella della tabella contiene un numero che rappresenta la stima del rischio
 <strong> Impatto:</strong> Minore 
 <strong> Stima del rischio:</strong> 8 <br>
 <strong> Motivazione alla stima del rischio:</strong> I giocatori di lunga data hanno aspettative difficili da soddisfare, ma il brand non risente in modo particolare di un eventuale malcontento <br>
-<strong> Gestione Rischio:</strong> Mitigazione/Contingency Plan, fin dall'inizio del progetto si stabiliranno le date di meeting con possibili clienti target, sebbene con frequenza molto ridotta rispetto all'altra categoria di utenti. Nel caso emergano recensioni particolarmente negative dopo la release, si programma di far uscire una patch che migliori la situazione.
+<strong> Gestione Rischio:</strong> Mitigazione/Contingency Plan. Fin dall'inizio del progetto si stabiliranno le date di meeting con possibili clienti target, sebbene con frequenza molto ridotta rispetto all'altra categoria di utenti. Nel caso emergano recensioni particolarmente negative dopo la release, si programma di far uscire una patch che migliori la situazione.
 </div>
 
 
@@ -196,7 +196,7 @@ Ogni cella della tabella contiene un numero che rappresenta la stima del rischio
 <strong> Impatto:</strong> Minore 
 <strong> Stima del rischio:</strong> 2 <br>
 <strong> Motivazione alla stima del rischio:</strong> Abbiamo prodotto altri trailer, quindi la probabilità di incorrere in errori di questo tipo è bassa, inoltre l'utenza del brand nutre un particolare interesse iniziale nei suoi confronti l'impatto è moderato per la stessa ragione. <br>
-<strong> Gestione Rischio:</strong> Accettazione/Contingency Plan, se un trailer ottiene delle reazioni particolarmente negative si potranno visionare i trailer del brand Dibimon che hanno avuto successo negli anni passati e si tenterà di produrre trailer più interessanti su questa base.
+<strong> Gestione Rischio:</strong> Accettazione/Contingency Plan. Se un trailer dovesse ottenere delle reazioni particolarmente negative si potranno visionare i trailer del brand Dibimon che hanno avuto successo negli anni passati e si tenterà di produrre trailer più interessanti su questa base.
 </div>
 
 
@@ -209,7 +209,7 @@ Mostrare troppi contenuti nei trailer, rivelando eccessivamente le caratteristic
 <strong> Impatto:</strong> Minore
 <strong> Stima del rischio:</strong> 6 <br>
 <strong> Motivazione alla stima del rischio:</strong> Essendo un remake, molte parti del videogioco sono ben note ai futuri utenti, inoltre le novità, per quanto presenti, sono nettamente inferiori in numero rispetto a quelle presenti in un nuovo videogioco. Ne consegue che risulta difficile mostrare delle feature nuove senza mostrarne troppe. <br>
-<strong> Gestione Rischio:</strong> Mitigazione prima dell'ideazione del trailer si contatterà la Mintendo per decidere esattamente cosa mostrare e cosa no.
+<strong> Gestione Rischio:</strong> Mitigazione. Prima dell'ideazione del trailer si contatterà la Mintendo per decidere esattamente cosa mostrare e cosa no.
 </div>
 
 
@@ -219,8 +219,8 @@ Mostrare troppi contenuti nei trailer, rivelando eccessivamente le caratteristic
 <strong> Probabilità:</strong> Moderata 
 <strong> Impatto:</strong> Moderato 
 <strong> Stima del rischio:</strong> 9 <br>
-<strong> Motivazione alla stima del rischio:</strong> Sebbene non sia improbabile che un problema simile si verifichi, un ritardo nell'uscita del trailer, non sarà particolarmente impatttante. <br>
-<strong> Gestione Rischio:</strong> Mitigazione prima dell'ideazione del trailer si contatterà la Mintendo per ottenere linee guida chiare.
+<strong> Motivazione alla stima del rischio:</strong> Sebbene non sia improbabile che un problema simile si verifichi, un ritardo nell'uscita del trailer, non sarà particolarmente impattante. <br>
+<strong> Gestione Rischio:</strong> Mitigazione. Prima dell'ideazione del trailer si contatterà la Mintendo per ottenere linee guida chiare.
 </div>
 
 <div class ="medium_high div">
@@ -235,74 +235,74 @@ Mostrare troppi contenuti nei trailer, rivelando eccessivamente le caratteristic
 
 <div class ="medium_high div">
 <h3> 3.1 </h3><br>
-<strong> Rischio:</strong> data mining sul contenuto del gioco.<br>
+<strong> Rischio:</strong> Data mining sul contenuto del gioco.<br>
 <strong> Probabilità:</strong> Estrema 
 <strong> Impatto:</strong> Moderato 
 <strong> Stima del rischio:</strong> 15 <br>
-<strong> Motivazione alla stima del rischio:</strong> Basandosi su esperienze passate, si può dire che sia cosa nota che sarà effettuato data mining sulla demo nella speranza di ottenre informazioni aggiuntive sul videogioco prima della data di uscita. L'impatto è moderato, poichè ciò non inficierà sul numero di copie vendute. <br>
-<strong> Gestione Rischio:</strong> Mitigazione, conoscendo il problema si presterà particolare attenzione nell' eliminazione di parti di codice sensibili dalla demo.
+<strong> Motivazione alla stima del rischio:</strong> Motivazione alla stima del rischio:</strong> Basandoci su esperienze passate, è noto che verrà effettuato data mining sulla demo nella speranza di ottenere informazioni aggiuntive sul videogioco prima della data di uscita. L'impatto è moderato poiché ciò non influenzerà significativamente il numero di copie vendute. <br>
+<strong> Gestione Rischio:</strong> Mitigazione. Conoscendo il problema, si presterà particolare attenzione nell'eliminazione di parti di codice sensibili dalla demo.
 </div>
 
 <div class ="medium_low div">
 <h3> 3.2 </h3><br>
-<strong> Rischio:</strong> la demo potrebbe non essere abbastanza coinvolgente o interessante da convincere i giocatori a comprare il gioco completo.<br>
+<strong> Rischio:</strong> La demo potrebbe non essere abbastanza coinvolgente o interessante da convincere i giocatori a comprare il videogioco completo.<br>
 <strong> Probabilità:</strong> Irrilevante 
 <strong> Impatto:</strong> Maggiore 
 <strong> Stima del rischio:</strong> 4 <br>
-<strong> Motivazione alla stima del rischio:</strong> Abbiamo prodotto altre demo, quindi la probabilità di incorrere in errori di questo tipo è bassa, inoltre sebbene l'utenza del brand nutre un particolare interesse iniziale nei suoi confronti l'impatto è maggiore poichè la demo ha una rilevanza significativa nella decisione sull'acquisto.<br>
-<strong> Gestione Rischio:</strong> Mitigazione durante la creazione della demo si contatteranno la Mintendo e suoi potenziali clienti per ottenere pareri correttivi.
+<strong> Motivazione alla stima del rischio:</strong> Abbiamo prodotto altre demo, quindi la probabilità di incorrere in errori di questo tipo è bassa. Tuttavia, poiché la demo ha una rilevanza significativa nella decisione di acquisto, l'impatto è maggiore..<br>
+<strong> Gestione Rischio:</strong> Mitigazione. Durante la creazione della demo, si contatteranno la Mintendo e suoi potenziali clienti per ottenere pareri correttivi.
 </div>
 
 <div class ="medium_low div">
 <h3> 3.3 </h3><br>
 <strong> Rischio:</strong> 
-La demo potrebbe rivelare troppi dettagli della trama o dei contenuti del gioco, riducendo l'interesse dei giocatori per il gioco completo.<br>
+La demo potrebbe rivelare troppi dettagli della trama o dei contenuti del gioco, riducendo l'interesse dei giocatori per il videogioco completo.<br>
 <strong> Probabilità:</strong> Moderata 
 <strong> Impatto:</strong> Insignificante
 <strong> Stima del rischio:</strong> 3 <br>
-<strong> Motivazione alla stima del rischio:</strong> Sebbene risulti difficile mostrare delle feature nuove senza mostrarne troppe, l'utenza è più propensa a comprare il gioco se la demo è stata gradita, anche se mostra meccaniche che non dovevano ancora apparire. <br>
-<strong> Gestione Rischio:</strong> Mitigazione, prima dell'ideazione del trailer si contatterà la Mintendo per decidere esattamente cosa mostrare e cosa no.
+<strong> Motivazione alla stima del rischio:</strong> Sebbene sia difficile mostrare nuove caratteristiche senza mostrarne troppe, l'utenza è più propensa a comprare il gioco se la demo è stata gradita, anche se mostra meccaniche che non dovevano ancora apparire. <br>
+<strong> Gestione Rischio:</strong> Mitigazione. prima dell'ideazione della demo, si contatterà la Mintendo per decidere esattamente cosa mostrare e cosa no. Verrà posta particolare attenzione su cosa possa influire in modo positivo e negativo sulle vendite del videogioco.
 </div>
 
 <div class ="medium_high div">
 <h3> 3.4 </h3><br>
-<strong> Rischio:</strong> mancata approvazione della demo da parte di Mintendo e mancanza di tempo per effettuare le modifiche necessarie.<br>
+<strong> Rischio:</strong> Mancata approvazione della demo da parte di Mintendo e mancanza di tempo per effettuare le modifiche necessarie.<br>
 <strong> Probabilità:</strong> Moderata 
 <strong> Impatto:</strong> Maggiore 
 <strong> Stima del rischio:</strong> 12 <br>
-<strong> Motivazione alla stima del rischio:</strong> è plausibile che un problema simile si verifichi, e sebbene un piccolo ritardo nell'uscita della demo, non sia particolarmente impatttante, un ritardo maggiore può provocare problemi di marketing. <br>
-<strong> Gestione Rischio:</strong> Mitigazione prima dell'ideazione del trailer si contatterà la Mintendo per ottenere linee guida chiare.
+<strong> Motivazione alla stima del rischio:</strong> È plausibile che un problema simile si verifichi, e sebbene un piccolo ritardo nell'uscita della demo, non sia particolarmente impattante, un ritardo maggiore può provocare problemi di marketing. <br>
+<strong> Gestione Rischio:</strong> Mitigazione. Durante la fase di ideazione della demo ogni elemento verrà prima approvato da Mintendo per garantirne l'approvazione.
 </div>
 
 <div class ="medium_high div">
 <h3> 4.1 </h3><br>
-<strong> Rischio:</strong> formato dati non compatibile e conseguente necessità di conversione per l'interazione con altri dispositivi.<br>
+<strong> Rischio:</strong> Formato dati non compatibile e conseguente necessità di conversione per l'interazione con altri dispositivi.<br>
 <strong> Probabilità:</strong> Moderata 
 <strong> Impatto:</strong> Maggiore 
 <strong> Stima del rischio:</strong> 12 <br>
-<strong> Motivazione alla stima del rischio:</strong> è plausibile che un problema simile si verifichi, l'impatto in tal caso è considerevole poichè potrebbero venir meno delle funzionalità. <br>
-<strong> Gestione Rischio:</strong> Contingency Plan, conoscendo il probelma, si contatta un esperto nelle conversioni dati di questa tipologia e si contratta un eventiale disponibilità. L'esperto è stato individuato all'interno della stessa Mintendo, in quanto sono i maggiori esperti dei software con cui srà necessario connettersi.
+<strong> Motivazione alla stima del rischio:</strong> Considerando la complessità del dominio applicativo è plausibile che un problema simile si verifichi, l'impatto in tal caso sarebbe considerevole poiché specifiche funzionalità potrebbero non funzionare o richiedere molto tempo per essere corrette. <br>
+<strong> Gestione Rischio:</strong> Contingency Plan. Conoscendo il problema, si contatta un esperto nelle conversioni dati di questa tipologia, possibilmente un dipendente di Mintendo stessa, e si contratta un eventuale disponibilità per la risoluzione.
 </div>
 
 <div class ="medium_high div">
 <h3> 5.1 </h3><br>
-<strong> Rischio:</strong> gli errori critici rilevati dopo il lancio sono di grande portata e non correggibili in tempi brevi.<br>
+<strong> Rischio:</strong> Gli errori critici rilevati dopo il lancio sono di grande portata e non correggibili in tempi brevi.<br>
 <strong> Probabilità:</strong> Bassa 
 <strong> Impatto:</strong> Catastrofico 
 <strong> Stima del rischio:</strong> 10 <br>
-<strong> Motivazione alla stima del rischio:</strong> Se presenti, gli errori critici non correggibili in tempi brevi, possono avere un forte impatto sulla giocabilità del prodotto e quindi sulla soddisfazione del cliente finale. Nonostante ciò la probabilità che ciò avvenga è fortunatamente bassa<br>
-<strong> Gestione Rischio:</strong> Mitigazione, svolgimento di numerose e frequenti testing session, anche con utenti finali, specialmente nel periodo che intercorre tra il completamento del software e il suo rilascio
+<strong> Motivazione alla stima del rischio:</strong> Se presenti, gli errori critici non correggibili in tempi brevi, possono avere un forte impatto sulla giocabilità del prodotto e quindi sulla soddisfazione del cliente finale. Nonostante ciò, la probabilità che ciò si verifichi è fortunatamente bassa. <br>
+<strong> Gestione Rischio:</strong> Mitigazione. Si provvederà a svolgere numerose e frequenti sessioni di testing, anche con utenti finali, specialmente nel periodo che intercorre tra il completamento del software e il suo rilascio. 
 </div>
 
 
 <div class ="medium div">
 <h3> 5.2 a </h3><br>
-<strong> Rischio:</strong> le nuove funzionalità online aggiunte dopo il lancio non suscitano l'interesse sperato.<br>
+<strong> Rischio:</strong> Le nuove funzionalità online aggiunte dopo il lancio non suscitano l'interesse sperato.<br>
 <strong> Probabilità:</strong> Bassa 
 <strong> Impatto:</strong> Moderato 
 <strong> Stima del rischio:</strong> 6 <br>
-<strong> Motivazione alla stima del rischio:</strong> l'impatto sull'aggiunta di nuove funzionalità che non suscitano particolare interesse è moderata poichè non impatta particolarmente le categorie di giocatori che non giocano online.<br>
-<strong> Gestione Rischio:</strong> Acceptance-Contngency Plan, se una funzionalità non suscita l'interesse sperato, prima di produrre la successiva si effettueranno maggiori survey.
+<strong> Motivazione alla stima del rischio:</strong> L'impatto sull'aggiunta di nuove funzionalità che non suscitano particolare interesse è moderato in quanto ciò non impatta particolarmente le categorie di giocatori che non giocano online.<br>
+<strong> Gestione Rischio:</strong> Acceptance/Contngency Plan. Se una funzionalità non suscita l'interesse sperato, prima di produrre la successiva si effettueranno maggiori survey con gli utenti per identificare cosa potrebbe riscuotere un maggiore successo.
 </div>
 
 <div class ="medium div">
@@ -311,7 +311,7 @@ La demo potrebbe rivelare troppi dettagli della trama o dei contenuti del gioco,
 <strong> Probabilità:</strong> Bassa 
 <strong> Impatto:</strong> Maggiore 
 <strong> Stima del rischio:</strong> 8 <br>
-<strong> Motivazione alla stima del rischio:</strong> l'impatto sull'aggiunta di nuove funzionalità che introducono errori è maggiore poichè potrebbe impattare funzionalatità precedentemente gradite.<br>
+<strong> Motivazione alla stima del rischio:</strong> l'impatto sull'aggiunta di nuove funzionalità che introducono errori è maggiore poiché potrebbe impattare funzionalità precedentemente gradite.<br>
 <strong> Gestione Rischio:</strong> Contngency Plan, se una funzionalità introduce errori, si tenterà di rilasciare quanto prima una patch correttiva.
 </div>
  
