@@ -37,38 +37,54 @@ border-top-width: 4px;}
 border-top-width: 4px;}
 </style>
 
+# Analisi SWOT
+
+Questo documento presenta un'analisi SWOT dettagliata per il progetto di sviluppo del remake del videogioco Dibimon per la console Mintendo Swap. L'analisi SWOT (Strengths, Weaknesses, Opportunities, Threats) è uno strumento strategico utilizzato per identificare e valutare i fattori interni ed esterni che possono influenzare il successo del progetto.
+
+- <strong>Strengths (Punti di forza):</strong> Evidenziano le risorse e le competenze interne che possono favorire il progetto.
+- <strong>Weaknesses (Debolezze):</strong> Riconoscono le aree interne che potrebbero rappresentare delle sfide.
+- <strong>Opportunities (Opportunità):</strong> Identificano i fattori esterni che il progetto può sfruttare a proprio vantaggio.
+- <strong>Threats (Minacce):</strong> Individuano i fattori esterni che potrebbero mettere a rischio il successo del progetto.
+
+L'obiettivo di questa analisi è di fornire una visione chiara e completa del contesto in cui il progetto si sviluppa, aiutando a pianificare strategie efficaci per massimizzare i punti di forza e le opportunità, mentre si minimizzano le debolezze e le minacce.
+
 
 <table>
     <tr>
         <td class="strength">
-        <h1 class="h">Strength</h1>
-        <h3 class="h">Provenienza interna ed effetto positivo </h3>
-        <div class = "div strength">La ditta ha già lavorato con Mintendo e conosce bene le tecnologie della console Mintendo Swap.</div>
+        <h1 class="h">Strengths</h1>
+        <h3 class="h">Provenienza interna ed effetto positivo. </h3>
+        <div class = "div strength">La ditta ha già lavorato con Mintendo e conosce in modo approfondito le tecnologie della console Mintendo Swap.</div>
         <div class = "div strength">Dibimon è un brand famoso con una base di fan consolidata, facilitando la campagna di marketing.</div>
         </td>
         <td class="opportunities">
         <h1 class="h">Opportunities</h1>
-        <h3 class="h">Provenienza esterna ed effetto positivo</h3>
+        <h3 class="h">Provenienza esterna ed effetto positivo.</h3>
         <div class = "div opportunities">Il mercato videoludico attuale ha mostrato un grande interesse per i remake di giochi classici.</div>
-         <div class = "div opportunities"> Esiste la possibilità di essere contattati ancora più frequentemente da Mintendo in caso di buona riuscita del progetto </div>
+         <div class = "div opportunities"> Esiste la possibilità di essere contattati ancora più frequentemente da Mintendo in caso di buona riuscita del progetto. </div>
         </td>
     </tr>
     <tr>
         <td class="weakness">
-        <h1 class="h">Weakness</h1>
-        <h3 class="h">Provenienza interna ed effetto negativo</h3>
+        <h1 class="h">Weaknesses</h1>
+        <h3 class="h">Provenienza interna ed effetto negativo.</h3>
         <div class = "div weakness">Le numerose scadenze per i trailer, la demo e il prodotto finito richiedono una gestione del tempo rigorosa.</div>
-        <div class = "div weakness"> Problemi imprevisti nello sviluppo, come bug o problemi di compatibilità, potrebbero ritardare il rilascio o richiedere costosi interventi correttivi.</div>
+        <div class = "div weakness"> Problemi imprevisti nello sviluppo, come bug o problemi di compatibilità, potrebbero ritardare il rilascio o richiedere costosi, sia economici che temporali, interventi correttivi.</div>
         </td>
         <td class="threats">
         <h1 class="h">Threats</h1>
-        <h3 class="h">Provenienza esterna ed effetto negativo</h3>
-        <div class = "div threats">I fan del brand potrebbero avere aspettative molto alte che, se non soddisfatte, potrebbero portare a recensioni negative.</div>
+        <h3 class="h">Provenienza esterna ed effetto negativo.</h3>
+        <div class = "div threats">I fan del brand potrebbero avere aspettative molto alte che, se non soddisfatte, potrebbero portare a recensioni negative e, conseguentemente, a vendite inferiori alle attese.</div>
         <div class = "div threats">A causa della lunga durata del progetto, sono possibili cambiamenti nel mercato dei videogiochi o nella situazione economica globale che potrebbero influenzare le vendite e lo sviluppo.</div>
         <div class = "div threats">La necessità di ottenere approvazioni frequenti da Mintendo potrebbe rallentare il processo di sviluppo.</div>
         </td>
     </tr>
 </table>
+
+
+
+
+
 
 
 
