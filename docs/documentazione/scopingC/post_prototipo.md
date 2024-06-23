@@ -37,17 +37,21 @@
     border-bottom: solid !important;
     border-width: 1px !important;
 }
-
-
 </style>
+
+# Analisi Prototipo
+
+Questo documento è stato prodotto per raccogliere il feedback dell'azienda committente riguardo il prototipo del videogioco in sviluppo. Basandosi sulle osservazioni e richieste ricevute, sono state identificate quattro categorie di intervento: elementi da eliminare, modificare, mantenere e aggiungere rispetto a quanto presente nel prototipo. Ogni sezione dettaglia le azioni specifiche da intraprendere per allineare il prototipo alle aspettative dell'azienda.
+
+Questa struttura permette di avere una visione chiara e organizzata delle modifiche necessarie al prototipo, facilitando la comunicazione tra il team di sviluppo e l'azienda committente.
 
 <div >
     <div class="split3">
         <h2 class="elimina">Eliminare</h2>
         <p>
             <ul>
-                <li> struttura a griglia dalle mappe </li>
-                <li> Aggiunta possibilità di giocare con la telecamera in terza persona in determinate aree del gioco </li>
+                <li> Rimuovere la struttura a griglia dalle mappe di gioco </li>
+                <li> Rimuovere la possibilità di giocare con la telecamera in terza persona in determinate aree del gioco </li>
             </ul>
         </p>
     </div>
@@ -55,9 +59,9 @@
         <h2 class="modifica">Modificare</h2>
         <p>
             <ul>
-                <li> Modifica grafica da 3D a HD-2D </li>
-                <li> Rendere possibile l'accesso alla modalità onine da ogni mappa di gioco e non solo da punti specifici </li>
-                <li> Modificare i minigiochi con utilizzo di touch screen in modo che sia possibile usare unicamente i controller della Mintendo Swap </li>
+                <li> Convertire lo stile grafico da 3D a HD-2D </li>
+                <li> Permettere l'accesso alla modalità onine da ogni mappa di gioco e non solo da punti specifici </li>
+                <li> Modificare i minigiochi per utilizzare esclusivamente i controller della Mintendo Swap, eliminando l'uso del touch screen</li>
             </ul>
         </p>
     </div>
@@ -65,10 +69,10 @@
         <h2 class="mantieni"> Mantenere</h2>
         <p>
             <ul>
-                <li> Mantenimento visuale dall'alto</li> 
-                <li> Mantenimento movimenti fluidi</li>
-                <li> Rispetto della struttura originale delle mappe </li>
-                <li> zona della mappa in cui pioi vedere la tua squadra di dimbimon che si muove casualmente e in cui puoi interagire con essa </li>
+                <li> Mantenere la visuale dall'alto</li> 
+                <li> Mantenere i movimenti del giocatore e degli NPC fluidi</li>
+                <li> Preservare la struttura originale delle mappe </li>
+                <li> Conservare la zona della mappa in cui la squadra di Dibimon si muove casualmente e interagisce con il giocatore </li>
             </ul>
         </p>
     </div>
@@ -76,8 +80,8 @@
         <h2 class="ok">Aggiungere </h2>
         <p>
             <ul>
-                <li> aggiunta di Dibimon che casualmente si vedono in determinate zone </li>
-                <li> Sfruttare la telecamera della console per vidionare la tua squadra di dibimon nel mondo reale </li>
+                <li> Inserire Dibimon visibili casualmente in determinate zone </li>
+                <li> Utilizzare la fotocamera della console per visualizzare la squadra di Dibimon nel mondo reale </li>
             </ul>
         </p>
     </div>
