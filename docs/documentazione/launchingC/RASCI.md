@@ -252,7 +252,6 @@ avanzamento</div>
         <td ></td>
         <td ></td>
         <td ></td>
-        <td ></td>
         <td class ="responsible">R</td>
     </tr>
     <tr>
