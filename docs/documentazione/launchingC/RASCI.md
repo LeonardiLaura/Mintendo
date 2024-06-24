@@ -35,7 +35,7 @@ border-top-width: 2px;border-top-color: rgb(77, 195, 105); text-align:center;}
 .consulted { background-color:rgba(148, 81, 214, 0.3); border-top-color: rgb(148, 81, 214);border-top-style: solid;
 border-top-width: 2px;text-align:center;}
 
-.support { background-color:rgba(63, 101, 204, 0.3); border-top-color: rgb(63, 101, 204);border-top-style: solid;
+.support { background-color:rgba(63, 143, 204, 0.3); border-top-color: rgb(63, 143, 204);border-top-style: solid;
 border-top-width: 2px;text-align:center;}
 .accountable { background-color:rgba(204, 164, 63, 0.3);border-top-color: rgb(204, 164, 63);border-top-style: solid;
 border-top-width: 2px;text-align:center;}
