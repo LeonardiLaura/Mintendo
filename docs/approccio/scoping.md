@@ -1,3 +1,5 @@
+#Scoping
+
 Per la fase di Scoping abbiamo inizialmente sviluppato parallelamente le Condition of Satisfaction (CoS) e il Project Overview Statement (POS).
 Il documento che descrive le [Condition of Satisfaction](../documentazione/scopingC/CoS.md): è fondamentale per ogni progetto, e in particolare per progetti di lunga durata, in quanto permette di mantenere chiarezza riguardo alle condizioni da garantire all’interno del progetto.
 Il [Project Overview Statement](../documentazione/scopingC/POS.md) invece permette di avere una visione ad alto livello del progetto analizzando gli obiettivi da conseguire e i corrispettivi rischi; inoltre definisce le assunzioni, gli ostacoli e lo scopo generale del progetto. Il documento è stato sviluppato associando direttamente gli obiettivi ai rischi e ai criteri di successo associati, ottenendo maggiore chiarezza sulle loro connessioni. 
