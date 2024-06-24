@@ -15,10 +15,7 @@ table {
 }
 
 
-td,tr,th{
-    width: 100px !important;
-    height: 100px !important;
-}
+
 
 tr{
     box-sizing: border-box !important;
@@ -58,12 +55,12 @@ border-top-width: 2px;text-align:center;}
 
 
 
-<div class="responsible div" > <strong>R</strong>esponsible Responsabile dell’attività e del suo completamento con 
+<div class="responsible div" > <strong>R</strong>esponsible: Responsabile dell’attività e del suo completamento con 
 successo</div>
-<div class="accountable div" > <strong>A</strong>ccountable  Incaricato dell’approvazione del risultato dell’attività</div>
-<div class="support div" > <strong>S</strong>upport  Risorsa assegnata per supportare il responsabile</div>
-<div class="consulted div" > <strong>C</strong>onsulted Disponibile per assistere il responsabile</div>
-<div class="informed div" > <strong>I</strong>nformed Membro che deve essere tenuto informato sullo stato di 
+<div class="accountable div" > <strong>A</strong>ccountable:  Incaricato dell’approvazione del risultato dell’attività</div>
+<div class="support div" > <strong>S</strong>upport:  Risorsa assegnata per supportare il responsabile</div>
+<div class="consulted div" > <strong>C</strong>onsulted: Disponibile per assistere il responsabile</div>
+<div class="informed div" > <strong>I</strong>nformed: Membro che deve essere tenuto informato sullo stato di 
 avanzamento</div>
 
 
