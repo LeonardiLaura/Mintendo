@@ -11,4 +11,4 @@ Durante il progetto è stata sviluppata la documentazione relativa, che in quest
 
 Sarà svolta inoltre una review finale del progetto nella sua interezza.
 
-Per quanto riguarda il deploy su negozi digitali e fisici il lavoro sarà principalmente svolto da Mintendo nel periodo che intercorre tra la consegna del 06/2027 e il rilascio del videogioco previsto per l'11/2027.
+Per quanto riguarda il deploy su negozi digitali e fisici il lavoro sarà svolto da Mintendo nel periodo che intercorre tra la consegna del 06/2027 e il rilascio del videogioco previsto per l'11/2027.
