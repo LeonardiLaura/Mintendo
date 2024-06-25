@@ -30,4 +30,3 @@ In questa fase viene anche redatto il [cash flow](../documentazione/planningC/ca
 Per ogni Milestone viene effettuato fin da subito un [Project Network Diagram e il relativo Gantt](../documentazione/planningC/gantt.md) per verificare che ogni Milestone sia completabile nei tempi previsti e individuare task completabili in parallelo.
 
 
-[Menu](../index.md)
