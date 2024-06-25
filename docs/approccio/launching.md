@@ -3,7 +3,7 @@
 # Launching
 
 A seguito del completamento della fase di planning si procede con l'inizio della fase di launching svolgendo il Kick-Off Meeting. <br>
-Durante questo meeting parteciperanno tutte le persone coinvolte nel progetto, dai membri e responsabili dei vari team agli sponsor del progetto. Inizialmente verrà presentato il progetto da parte degli sponsor focalizzandosi sugli aspetti di rilevanza maggiore, in seguito sarnno il project manager e i responsabili dei vari team a presentare a Mintendo come si intende approcciare la realizzazione del progetto, utilizzando i documenti facenti parte del Product Definition Statement realizzato durante le fasi di scoping e planning. 
+Durante questo meeting parteciperanno tutte le persone coinvolte nel progetto, dai membri e responsabili dei vari team agli sponsor del progetto. Inizialmente verrà presentato il progetto da parte degli sponsor focalizzandosi sugli aspetti di rilevanza maggiore, in seguito saranno il project manager e i responsabili dei vari team a presentare a Mintendo come si intende approcciare la realizzazione del progetto, utilizzando i documenti facenti parte del Product Definition Statement realizzato durante le fasi di scoping e planning. 
 
 In questa fase viene inoltre esposta l'organizzazione interna dell'azienda in relazione all'approccio al progetto. 
 I ruoli principali sono identificabili come segue:
