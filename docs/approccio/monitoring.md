@@ -1,3 +1,6 @@
+<!--w-->
+
+
 # Monitoring
 
 ## Sistema di reporting
@@ -11,7 +14,7 @@ Inizialmente è stato definito il sistema di reporting, utilizzando una tipologi
 - Utilizza strumenti grafici per trasmettere le informazioni in modo che la comunicazione sia rapida ed efficace.
 
 Come strumenti visuali per il reporting sono state selezionati due grafici: 
-- **Gantt Project Status Report:** basandosi sul Gantt di ogni milestone si monitora lo stato di avanzamento delle task, in particolare è rilevante individuare task il cui periodo di svolgimento differisce da quanto inizialmente pianificato. In questo modo è possibile comprendere fin da subito l'eventuale necessità di riallocare le risorse all'interno di ogni team.
+- **Gantt Project Status Report:** basandosi sul Gantt di ogni milestone si monitora lo stato di avanzamento dei task, in particolare è rilevante individuare task il cui periodo di svolgimento differisce da quanto inizialmente pianificato. In questo modo è possibile comprendere fin da subito l'eventuale necessità di riallocare le risorse all'interno di ogni team.
 
 - **Earned Value Performance Indices**: tramite questi grafici sono monitorati, ogni due settimane, gli indici che rappresentano le performance sia temporali che economiche. Nello specifico gli indici utilizzati sono:
     - Schedule Performance Index (SPI): misura la performance rispetto alla pianificazione originale.    
@@ -23,6 +26,6 @@ Considerando la dimensione del progetto e la sua complicata gestione, si è deci
 
 ## Scrum Management
 
-All'interno delle milestone si effettueranno sprint di 2 settimane, al termine dei quali si effettua uno sprint retrospective e sprint review, per discutere l'andamento delle task attribuite al team, dei punti di forza dell'organizzazione del lavoro e degli eventuali miglioramenti apportabili al flusso di lavoro.
+All'interno delle milestone si effettueranno sprint di 2 settimane, al termine dei quali si effettua uno sprint retrospective e sprint review, per discutere l'andamento dei task attribuiti al team, dei punti di forza dell'organizzazione del lavoro e degli eventuali miglioramenti apportabili al flusso di lavoro.
 
-[Menu](../index.md)
+
