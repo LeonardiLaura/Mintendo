@@ -1,6 +1,6 @@
 
 - [Contition of Satisfaction (CoS)](./scopingC/CoS)
-- [Project Overview Statement(POS)](./scopingC/POS)
+- [Project Overview Statement (POS)](./scopingC/POS)
 - [Analisi Rischi](./scopingC/Analisi_rischi.md)
 - [SWOT](./scopingC/SWOT.md)
 - [Analisi del prototipo](./scopingC/post_prototipo.md)
