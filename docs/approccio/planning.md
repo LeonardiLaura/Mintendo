@@ -1,7 +1,9 @@
+<!--__-->
+
 # Planning
 
 Dopo aver completato la fase di scoping e deciso il modello PMLC si procede con la fase di Planning. 
-Considerando le dimensioni del progetto, i vari meeting e i documenti da produrre sono stati dedicati sette giorni a questa fase. 
+Considerando le dimensioni del progetto, i vari meeting e i documenti da produrre, sono stati dedicati sette giorni a questa fase. 
 
 In previsione della fase di planning sono stati precedentemente identificati i documenti che sarebbero stati prodotti durante questa fase. In seguito, è stato definito un calendario dei meeting considerando le disponibilità dei membri di Mintendo coinvolti in questa fase. <br>
 Ogni meeting effettuato verrà registrato in modo da poter essere consultato in seguito in caso di necessità.
@@ -21,7 +23,7 @@ La stima è effettuata tramite il mazzo di carte rappresentante la sequenza di F
 L'azienda utilizza spesso questa tecnica, per cui possiede un'app proprietaria per effettuare la stima in anonimato e che permetta ai votanti, sempre in modo anonimo, di visionare le motivazioni delle stime dei partecipanti.
 Si tenta di raggiunge il consenso entro 3 turni, se ciò non avviene il facilitatore decide se procedere con ulteriori turni o effettuare una media delle valutazioni proposte.
 
-Le stime sono effettuate durante la produzione del [Product backlog](../documentazione/planningC/product_backlog.md). In questo documento sono indicate le feature e la loro scomposizione in task con corrispettiva stima in punti funzione. Viene inoltre indicato quali tipologie di team sono coinvolti in ogni feature. 
+Le stime sono effettuate durante la produzione del [Product backlog](../documentazione/planningC/product_backlog.md). In questo documento sono indicate le feature e la loro scomposizione in task con corrispettiva stima in punti funzione. Viene inoltre indicato a quali ambiti afferisce ogni feature. 
 
 In questa fase viene anche redatto il [cash flow](../documentazione/planningC/cash_flow.md) dove vengono indicate tutte le entrate e le uscite di denaro durante il corso del progetto.
 
