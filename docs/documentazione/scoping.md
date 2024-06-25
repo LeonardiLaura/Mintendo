@@ -1,9 +1,10 @@
-# Documentazione prodotta
 
-- [Contition of Satisfaction](./scopingC/CoS)
-- [POS](./scopingC/POS)
-    - [Risk Matrix](./scopingC/Analisi_rischi.md)
-    - SWOT
-    - 
-- RBS
-    - User Story
+- [Contition of Satisfaction (CoS)](./scopingC/CoS)
+- [Project Overview Statement(POS)](./scopingC/POS)
+- [Analisi Rischi](./scopingC/Analisi_rischi.md)
+- [SWOT](./scopingC/SWOT.md)
+- [Analisi del prototipo](./scopingC/post_prototipo.md)
+- [Business Model Canvas](./scopingC/canvas.md)
+- [Reqirements Breakdown Structure (RBS)](./scopingC/RBS.md)
+- [User Stories](./scopingC/user_story.md)
+- [User flow](./scopingC/user_flow.md)
