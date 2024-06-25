@@ -1,21 +1,4 @@
-
-
-
-requisiti committente soddisfatti + consegna deliverables + decreta fine progetto
-
- I processi consentono di:
- ● Pianificare ed eseguire l’installazione/consegnadei deliverables;
- ● Ottenere l’approvazionedel committente per quanto riguarda il 
-soddisfacimento dei requisiti del progetto;
- ● Scrivere il rapporto finaledel progetto;
- ● Condurre una verifica post-implementazionedel progetto (post
-implementationaudit, retrospettiva).
-- 02/2027
-- 06/2027
-- 09/2027 demo
-- 11/2028
-
-
+# Closing
 
 La fase di chiusura del progetto è suddivisa in svariati momenti:
 - Consegna del 06/2027 in questa data deve essere completato lo sviluppo del videogioco, sebbene eventuali patch o funzionaltà aggiuntive minori possano essere completate entro la consegna del 11/2027, questa consegna è necessaria per svolgere uleriori beta-testing, svolti in cooperazione con Mintendo, e per far si che quest'ultima possa avere il tempo di di produrre e distribuire il videogioco fisico, effettuare la localizzazione del videogioco nei vari paesi e per aver modo di ottenere certificati per classificare l'età minima per giocare al videogioco secondo le leggi vigenti nei paesi in cui il videogioco sarà distribuito.
