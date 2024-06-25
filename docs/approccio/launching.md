@@ -9,8 +9,8 @@ In questa fase viene inoltre esposta l'organizzazione interna dell'azienda in re
 I ruoli principali sono identificabili come segue:
 - **Project Manager:** Il project manager è la persona che si occupa di guidare i vari team coinvolti al completamento degli obiettivi del progetto. Il project manager si occupa di mediare tra i team e i vertici aziendali. 
 - **Responsabile Team:** Ogni team è rappresentato da un responsabile, tipicamente un esperto nell'ambito di cui si occupa il team. Il responsabile comunica direttamente con il project manager e si occupa delle interazioni necessarie con gli altri responsabili. 
-- **Membro Team:** Si occupa dello sviluppo delle task che gli sono assegnate. Normalmente è specializzato in uno o più ambiti e viene assegnato ai team in base alla tipologia di task da effettuare all'interno del progetto. 
-- **Esperto:** Uno sviluppatore con una specializzazione caratteristica, durante il progetto di occupa prevalentemente delle task del team di appartenenza ma, nel momento in cui è necessario svolgere task inerenti all'ambito in cui è esperto, si occupa da fare da punto di riferimento per il team.
+- **Membro Team:** Si occupa dello sviluppo dei task che gli sono stati assegnati. Normalmente è specializzato in uno o più ambiti e viene assegnato ai team in base alla tipologia di task da effettuare all'interno del progetto. 
+- **Esperto:** Uno sviluppatore con una specializzazione caratteristica, durante il progetto di occupa prevalentemente dei task del team di appartenenza ma, nel momento in cui è necessario svolgere task inerenti all'ambito in cui è esperto, si occupa da fare da punto di riferimento per il team.
 
 Al termine delle rispettive presentazioni si potrà procedere con l'assegnazione delle responsabilità ai vari team, responsabili ed esperti che prenderanno parte al progetto. 
 Per effettuare questa assegnazione verrà fatto uso di una [Matrice RASCI](../documentazione/launchingC/RASCI.md).
