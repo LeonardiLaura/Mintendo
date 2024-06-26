@@ -1,3 +1,5 @@
+<!--u-->
+
 # User flow
 
 Lo user flow realizzato rappresenta come l'utente dall'avvio dell'applicazione può raggiungere le varie funzionalità del videogioco. In particolare si focalizza sugli aspetti di connessione, di cambio modalità da single player a multiplayer, e di interazione con altri dispositivi. 
