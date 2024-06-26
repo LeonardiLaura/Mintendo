@@ -12,4 +12,6 @@ Tali task sono stati estratti dal WBS tramite un'accurata analisi delle gerarchi
 Nel determinare l'appartenenza dei task a tali livelli di priorità, sono emerse delle dipendenze tra essi, che sono state indicate nel grafico sottostante.
 Le dipendenze dirette sono state indicate con una freccia, mentre quelle parziali sono indicate con una freccia tratteggiata.
 
+Nel caso di dipendenza totale un task che dipende da un altro deve avere necessariamente una priorità uguale o superiore a quest'ultimo, mentre nel caso di dipendenza parziale questo vincolo viene rilassato poichè il task dipende solo in parte dall'altro.
+
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVK6IJk3U=/?moveToViewport=-31797,-5155,12344,5635&embedId=340412053056" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
