@@ -13,9 +13,11 @@ table {
     width: 100%;
 }
 
-td,tr,th{
-    width: 10%;
+td, th {
+    width: 14.2857%;
     height: 200px !important;
+    border: 1px solid #000;
+    text-align: center;
 }
 
 .div{
