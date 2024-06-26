@@ -14,8 +14,8 @@ table {
 }
 
 td, th {
-    width: 14.2857%;
-    height: 200px !important;
+    width: 14.2857% !important;
+    height: 14.2857% !important;
     border: 1px solid #000;
     text-align: center;
 }
