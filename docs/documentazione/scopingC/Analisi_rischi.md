@@ -15,7 +15,7 @@ table {
 
 td, th {
     width: 14.2857% !important;
-    height: 14.2857% !important;
+    height: 30% !important;
     border: 1px solid #000;
     text-align: center;
 }
@@ -93,14 +93,14 @@ Ogni cella della tabella contiene un numero che rappresenta la stima del rischio
         <th rowspan="5">Impatto</th>
         <th>Insignificante</th>
         <td class="low">1</td>
-        <td class="medium_low">2</td>
+        <td class="low">2</td>
         <td class="medium_low">3</td>
         <td class="medium_low">4</td>
         <td class="medium">5</td>
     </tr>
     <tr>
         <th>Minore</th>
-        <td class="medium_low">2</td>
+        <td class="low">2</td>
         <td class="medium_low">4</td>
         <td class="medium">6</td>
         <td class="medium">8</td>
