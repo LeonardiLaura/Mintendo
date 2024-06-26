@@ -106,14 +106,14 @@ Lo scopo del progetto è la creazione del remake di un videogioco, Dibimon Cobal
 
 <ul>
     <li>Abbiamo esperienza precedente di lavoro con Mintendo, tuttavia non specificamente con il brand Dibimon. Conosciamo bene le tecnologie della console, ma dobbiamo ancora acquisire familiarità con gli elementi specifici del brand Dibimon.</li>
-    <li>L'obiettivo dell'azienda non si limita alla vendita delle copie del gioco, ma include anche la promozione degli abbonamenti per i servizi online e il rafforzamento o l'aumento del prestigio del brand Dibimon.</li>
+    <li>L'obiettivo dell'azienda Mintendo non si limita alla vendita delle copie del gioco, ma include anche la promozione degli abbonamenti per i servizi online e il rafforzamento o l'aumento del prestigio del brand Dibimon.</li>
     <li>L'infrastruttura dei server per la gestione della parte online è gestita direttamente da Mintendo.</li>
-    <li>Stimiamo di impiegare un organico di 400 persone per questo progetto, che rappresenta l'intera nostra forza lavoro disponibile.</li>
+    <li>Stimiamo di impiegare un organico di 150 persone per questo progetto, che rappresenta l'intera nostra forza lavoro disponibile.</li>
     <li>I pagamenti saranno effettuati in modo incrementale ad ogni iterazione del progetto.</li>
     <li>I prodotti saranno sottoposti alla revisione anticipata di Mintendo prima delle date di consegna per consentire la correzione di eventuali errori.</li>
     <li>Durante lo sviluppo, saranno condotte indagini per raccogliere feedback dagli utenti potenziali al fine di avvicinare il più possibile il prodotto alle loro aspettative.</li>
     <li>Tra la consegna del software e la release effettiva, sarà effettuato un processo di testing completo per identificare e risolvere eventuali problemi prima del lancio.</li>
-    <li>Non avremo la possibilità di avviare altri progetti nei prossimi 4 anni a causa dell'impegno totale della nostra forza lavoro nel progetto Dibimon Cobalto.</li>
+    <li>Non avremo la possibilità di avviare altri progetti nei prossimi 38 mesi a causa dell'impegno totale della nostra forza lavoro nel progetto Dibimon Cobalto, inoltre nei successivi 18 mesi buona parte della nostra forza lavoro sarà occupata in manutenzione correttiva, perfettiva ed evolutiva del videogioco.</li>
 </ul>
 
-[Menu](../../index.md)
+
