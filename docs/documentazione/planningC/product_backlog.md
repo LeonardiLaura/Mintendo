@@ -69,27 +69,11 @@ Il product backlog è stato prodotto selezionando le foglie del WBS, ordinandole
 | 47 | Rilasciare periodicamente nuove regolamenti per le sfide online |  52 | | | | | | | | | | | | | | | | | | | | |
 
 
-I punti funzione assegnati alle varie feature sono mappati in giorni uomo secondo la seguente formula: *Giorni uomo = punti funzione x 20*
-I valori del planning poker sono stati mappati in questa tabella per comodi tà di lettura:
+I punti funzione assegnati alle varie feature sono mappati in giorni uomo secondo la seguente formula: 
 
-prova2
-$$ Giorni uomo = punti funzione*20 $$
+*Giorni uomo = punti funzione x 20*
 
-prova3 
-
-$$$
-Giorni uomo = punti funzione*20 
-$$$
-
-
-
-I punti funzione assegnati alle varie feature sono mappati in giorni uomo secondo la seguente formula: $Giorni uomo = punti funzione*20$
-I valori del planning poker sono stati mappati in questa tabella per comodi tà di lettura:
-
-prova2b
-$$Giorni uomo = punti funzione*20$$
-
-$$$Giorni uomo = punti funzione*20$$$
+I valori del planning poker sono stati mappati in questa tabella per comodità di lettura:
 
 | punti funzione | Giorni uomo |
 |-|-|
@@ -105,7 +89,6 @@ $$$Giorni uomo = punti funzione*20$$$
 | 55 | 1100 |
 | 89 | 1780 |
 
-Qua interno al team, 
 
 Per ottenere i valori sopra riportati i varii team sono stati raggruppati in base alle loro copmetenze e gli è stato chiesto di suddividere ogni feature nelle task che la compongono e di valutarne la durata tramite la procedura descritta nell'[approccio al planning](../../approccio/planning)
 
@@ -249,6 +232,7 @@ Per ottenere i valori sopra riportati i varii team sono stati raggruppati in bas
         <td>21</td>
         <td  rowspan="4">60</td>
     </tr>
+    <tr>
         <td>27.2</td>
         <td> Implementazione sfide in competitiva </td>
         <td>21</td>
