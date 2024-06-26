@@ -1,3 +1,6 @@
+<!--,-->
+
+
 # Requirements Breakdown Structure
 
 Il Requirements Breakdown Structure (RBS) è uno strumento strategico che contribuisce significativamente alla gestione del progetto, fornendo una visione completa e dettagliata dei requisiti necessari per lo sviluppo del prodotto finale. Utilizzando l'RBS, i team dedicati al progetto possono assicurarsi che tutti i requisiti siano ben definiti, compresi e gestiti, garantendo così il successo del progetto nel rispetto delle tempistiche, del budget e delle aspettative qualitative.
