@@ -186,7 +186,7 @@ Ogni cella della tabella contiene un numero che rappresenta la stima del rischio
 
 
 
-<div class ="medium_low div">
+<div class ="low div">
 <h3> 2.1</h3><br>
 <strong> Rischio:</strong> Incapacità di bilanciare i contenuti nei trailer per stimolare la curiosità.<br>
 <strong> Probabilità:</strong> Irrilevante 
