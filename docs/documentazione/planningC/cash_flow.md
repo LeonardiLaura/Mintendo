@@ -1,4 +1,4 @@
-<|--@-->
+<!--@-->
 
 # Cash flow
 
@@ -68,9 +68,6 @@
   <img src="../../img/cash.png" alt="Grafico cash flow" />
 </p>
 
-Altre info utili
-|numero dipendenti | 150| 
-
 |motivazione spesa|frequenza|importo|
 |-|-|-|
 |infrastrutture |mensile|€ 54,000| 
@@ -82,7 +79,4 @@ Altre info utili
 | edificio|annuale|€ 150,000| 
 |outsourcing trailer| - |€ 600,000|
 |outsourcing voice acting| - |€ 20,000| 
-
-
-
 
