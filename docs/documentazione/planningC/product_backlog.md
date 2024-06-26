@@ -67,7 +67,7 @@ I punti funzione assegnati alle varie feature sono mappati in giorni uomo second
 
 *Giorni uomo = punti funzione x 20*
 
-I valori del planning poker sono stati mappati in questa tabella per comodità di lettura:
+I valori del planning poker sono stati mappati in ore uomo nella seguente tabella per comodità di lettura:
 
 | punti funzione | Giorni uomo |
 |-|-|
