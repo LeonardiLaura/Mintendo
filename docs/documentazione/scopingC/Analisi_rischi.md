@@ -299,7 +299,7 @@ La demo potrebbe rivelare troppi dettagli della trama o dei contenuti del gioco,
 <strong> Impatto:</strong> Moderato 
 <strong> Stima del rischio:</strong> 6 <br>
 <strong> Motivazione alla stima del rischio:</strong> L'impatto sull'aggiunta di nuove funzionalità che non suscitano particolare interesse è moderato in quanto ciò non impatta particolarmente le categorie di giocatori che non giocano online.<br>
-<strong> Gestione Rischio:</strong> Acceptance/Contngency Plan. Se una funzionalità non suscita l'interesse sperato, prima di produrre la successiva si effettueranno maggiori survey con gli utenti per identificare cosa potrebbe riscuotere un maggiore successo.
+<strong> Gestione Rischio:</strong> Acceptance/Contingency Plan. Se una funzionalità non suscita l'interesse sperato, prima di produrre la successiva si effettueranno maggiori survey con gli utenti per identificare cosa potrebbe riscuotere un maggiore successo.
 </div>
 
 <div class ="medium div">
@@ -309,7 +309,7 @@ La demo potrebbe rivelare troppi dettagli della trama o dei contenuti del gioco,
 <strong> Impatto:</strong> Maggiore 
 <strong> Stima del rischio:</strong> 8 <br>
 <strong> Motivazione alla stima del rischio:</strong> l'impatto sull'aggiunta di nuove funzionalità che introducono errori è maggiore poiché potrebbe impattare funzionalità precedentemente gradite.<br>
-<strong> Gestione Rischio:</strong> Contngency Plan, se una funzionalità introduce errori, si tenterà di rilasciare quanto prima una patch correttiva.
+<strong> Gestione Rischio:</strong> Contingency Plan, se una funzionalità introduce errori, si tenterà di rilasciare quanto prima una patch correttiva.
 </div>
  
 
