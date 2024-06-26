@@ -14,7 +14,7 @@ table {
 }
 
 td,tr,th{
-    width: 200px !important;
+    width: 10%;
     height: 200px !important;
 }
 
