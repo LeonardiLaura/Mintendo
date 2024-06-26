@@ -69,7 +69,7 @@ Il product backlog è stato prodotto selezionando le foglie del WBS, ordinandole
 | 47 | Rilasciare periodicamente nuove regolamenti per le sfide online |  52 | | | | | | | | | | | | | | | | | | | | |
 
 
-I punti funzione assegnati alle varie feature sono mappati in giorni uomo secondo la seguente formula: *Giorni uomo = punti funzione*20*
+I punti funzione assegnati alle varie feature sono mappati in giorni uomo secondo la seguente formula: *Giorni uomo = punti funzione x 20*
 I valori del planning poker sono stati mappati in questa tabella per comodi tà di lettura:
 
 prova2
@@ -89,7 +89,7 @@ I valori del planning poker sono stati mappati in questa tabella per comodi tà 
 prova2b
 $$Giorni uomo = punti funzione*20$$
 
-
+$$$Giorni uomo = punti funzione*20$$$
 
 | punti funzione | Giorni uomo |
 |-|-|
