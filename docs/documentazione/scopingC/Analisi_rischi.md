@@ -8,6 +8,7 @@ h2,h3 {
 
 table {
     border-collapse: collapse;
+    grid-template-columns: repeat(7, 1fr);
     table-layout: fixed;
     width: 100%;
 }
