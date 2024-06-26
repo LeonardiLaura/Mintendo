@@ -58,7 +58,7 @@ Ogni cella della tabella contiene un numero che rappresenta la stima del rischio
 </div>
 
 <div class ="medium div">
-<strong>Rischio medio:</strong> I rischi di livello medio rappresentano una minaccia che potrebbe avere un impatto tangibile sul progetto. La loro gestione richiede monitoraggio e l'implementazione di piani di mitigazione ben definiti.
+<strong>Rischio medio:</strong> I rischi di livello medio rappresentano una minaccia che potrebbe avere un effetto tangibile sul progetto. La loro gestione richiede monitoraggio e l'implementazione di piani di mitigazione ben definiti.
 </div>
 
 <div class ="medium_high div">
@@ -216,7 +216,7 @@ Mostrare troppi contenuti nei trailer, rivelando eccessivamente le caratteristic
 <strong> Probabilità:</strong> Moderata 
 <strong> Impatto:</strong> Moderato 
 <strong> Stima del rischio:</strong> 9 <br>
-<strong> Motivazione alla stima del rischio:</strong> Sebbene non sia improbabile che un problema simile si verifichi, un ritardo nell'uscita del trailer, non sarà particolarmente impattante. <br>
+<strong> Motivazione alla stima del rischio:</strong> Sebbene non sia improbabile che un problema simile si verifichi, un ritardo nell'uscita del trailer non sarà particolarmente impattante. <br>
 <strong> Gestione Rischio:</strong> Mitigazione. Prima dell'ideazione del trailer si contatterà la Mintendo per ottenere linee guida chiare.
 </div>
 
@@ -236,7 +236,7 @@ Mostrare troppi contenuti nei trailer, rivelando eccessivamente le caratteristic
 <strong> Probabilità:</strong> Estrema 
 <strong> Impatto:</strong> Moderato 
 <strong> Stima del rischio:</strong> 15 <br>
-<strong> Motivazione alla stima del rischio:</strong> Motivazione alla stima del rischio:</strong> Basandoci su esperienze passate, è noto che verrà effettuato data mining sulla demo nella speranza di ottenere informazioni aggiuntive sul videogioco prima della data di uscita. L'impatto è moderato poiché ciò non influenzerà significativamente il numero di copie vendute. <br>
+<strong> Motivazione alla stima del rischio:</strong> Basandoci su esperienze passate, è noto che verrà effettuato data mining sulla demo nella speranza di ottenere informazioni aggiuntive sul videogioco prima della data di uscita. L'impatto è moderato poiché ciò non influenzerà significativamente il numero di copie vendute. <br>
 <strong> Gestione Rischio:</strong> Mitigazione. Conoscendo il problema, si presterà particolare attenzione nell'eliminazione di parti di codice sensibili dalla demo.
 </div>
 
@@ -246,7 +246,7 @@ Mostrare troppi contenuti nei trailer, rivelando eccessivamente le caratteristic
 <strong> Probabilità:</strong> Irrilevante 
 <strong> Impatto:</strong> Maggiore 
 <strong> Stima del rischio:</strong> 4 <br>
-<strong> Motivazione alla stima del rischio:</strong> Abbiamo prodotto altre demo, quindi la probabilità di incorrere in errori di questo tipo è bassa. Tuttavia, poiché la demo ha una rilevanza significativa nella decisione di acquisto, l'impatto è maggiore..<br>
+<strong> Motivazione alla stima del rischio:</strong> Abbiamo prodotto altre demo, quindi la probabilità di incorrere in errori di questo tipo è bassa. Tuttavia, poiché la demo ha una rilevanza significativa nella decisione di acquisto, l'impatto è maggiore.<br>
 <strong> Gestione Rischio:</strong> Mitigazione. Durante la creazione della demo, si contatteranno la Mintendo e suoi potenziali clienti per ottenere pareri correttivi.
 </div>
 
@@ -267,7 +267,7 @@ La demo potrebbe rivelare troppi dettagli della trama o dei contenuti del gioco,
 <strong> Probabilità:</strong> Moderata 
 <strong> Impatto:</strong> Maggiore 
 <strong> Stima del rischio:</strong> 12 <br>
-<strong> Motivazione alla stima del rischio:</strong> È plausibile che un problema simile si verifichi, e sebbene un piccolo ritardo nell'uscita della demo, non sia particolarmente impattante, un ritardo maggiore può provocare problemi di marketing. <br>
+<strong> Motivazione alla stima del rischio:</strong> È plausibile che un problema simile si verifichi, e sebbene un piccolo ritardo nell'uscita della demo non sia particolarmente impattante, un ritardo maggiore può provocare problemi di marketing. <br>
 <strong> Gestione Rischio:</strong> Mitigazione. Durante la fase di ideazione della demo ogni elemento verrà prima approvato da Mintendo per garantirne l'approvazione.
 </div>
 
