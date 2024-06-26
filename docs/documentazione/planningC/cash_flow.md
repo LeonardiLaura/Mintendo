@@ -4,7 +4,7 @@
 
 
 
-|date|flusso in entrata|flusso in uscita|totale entrata|totale uscita|flusso di cassa netto|
+|data|flusso in entrata|flusso in uscita|totale entrata|totale uscita|flusso di cassa netto|
 |-|-|-|-|-|-|
 |2024-09|€ 6,000,000|€ 920,250|€ 6,000,000|€ 920,250|€ 5,079,750|
 |2024-10| |€ 920,250|€ 6,000,000|€ 1,840,500|€ 4,159,500|
