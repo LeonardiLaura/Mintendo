@@ -1,8 +1,11 @@
+<|--@-->
+
 # Cash flow
 
-| | | | | | |
+
+
+|data|flusso in entrata (€)|flusso in uscita (€)|totale entrata (€)|totale uscita (€)|totale (€)|
 |-|-|-|-|-|-|
-|date|flusso in entrata|flusso in uscita|totale entrata|totale uscita|totale|
 |2024-09|6000000|920250|6000000|920250|5079750|
 |2024-10| |920250|6000000|1840500|4159500|
 |2024-11|3000000|920250|9000000|2760750|6239250|
@@ -66,7 +69,7 @@
   <img src="../../img/cash.png" alt="Grafico cash flow" />
 </p>
 
-| motivazione | costo |
+| motivazione e frequenza della spesa | costo (€)|
 |-|-| 
 |numero dipendenti|150| 
 |costo mensile medio x dip|5775| 
