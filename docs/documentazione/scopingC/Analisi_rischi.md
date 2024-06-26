@@ -15,7 +15,7 @@ table {
 
 td, th {
     width: 14.2857% !important;
-    height: 30% !important;
+    height: 100px !important;
     border: 1px solid #000;
     text-align: center;
 }
@@ -68,12 +68,6 @@ Ogni cella della tabella contiene un numero che rappresenta la stima del rischio
 <div class ="high div">
 <strong>Rischio alto:</strong> Rischi ad alto livello sono sia molto probabili che fortemente impattanti, possono dunque compromettere in modo significativo il successo del progetto. Richiedono un piano di gestione dei rischi ben dettagliato e l'impegno costante del management. Un elevato numero di rischi di tale natura può far desistere dall'intraprendere un progetto.
 </div>
-
-
-
-<p align="center">
-  <img src="../../img/tabella_finale.png" alt="Tabella rischi" />
-</p>
 
 
 
@@ -319,4 +313,4 @@ La demo potrebbe rivelare troppi dettagli della trama o dei contenuti del gioco,
 </div>
  
 
-[Menu](../../index.md)
+
