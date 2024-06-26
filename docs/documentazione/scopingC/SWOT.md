@@ -55,7 +55,7 @@ L'obiettivo di questa analisi è di fornire una visione chiara e completa del co
         <h1 class="h">Strengths</h1>
         <h3 class="h">Provenienza interna ed effetto positivo. </h3>
         <div class = "div strength">La ditta ha già lavorato con Mintendo e conosce in modo approfondito le tecnologie della console Mintendo Swap.</div>
-        <div class = "div strength">Dibimon è un brand famoso con una base di fan consolidata, facilitando la campagna di marketing.</div>
+        <div class = "div strength">Dibimon è un brand famoso con una base di fan consolidata, ne concegue che la campagna marketing risulta di facile sviluppo.</div>
         </td>
         <td class="opportunities">
         <h1 class="h">Opportunities</h1>
@@ -69,7 +69,7 @@ L'obiettivo di questa analisi è di fornire una visione chiara e completa del co
         <h1 class="h">Weaknesses</h1>
         <h3 class="h">Provenienza interna ed effetto negativo.</h3>
         <div class = "div weakness">Le numerose scadenze per i trailer, la demo e il prodotto finito richiedono una gestione del tempo rigorosa.</div>
-        <div class = "div weakness"> Problemi imprevisti nello sviluppo, come bug o problemi di compatibilità, potrebbero ritardare il rilascio o richiedere costosi, sia economici che temporali, interventi correttivi.</div>
+        <div class = "div weakness"> Problemi imprevisti nello sviluppo, come bug o problemi di compatibilità, potrebbero ritardare il rilascio o richiedere costosi interventi correttivi, sia economici che temporali.</div>
         </td>
         <td class="threats">
         <h1 class="h">Threats</h1>
