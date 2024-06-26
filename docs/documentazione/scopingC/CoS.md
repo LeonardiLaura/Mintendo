@@ -1,3 +1,6 @@
+<!--~-->
+
+
 # Condition of Satisfaction
 
 ## Scopo del Documento
@@ -19,7 +22,7 @@ La tabella seguente è organizzata in colonne che descrivono diversi aspetti del
 
 - **Obiettivo:** L'obiettivo specifico da raggiungere per soddisfare la condizione.
 
-- **Status:** Lo stato attuale di avanzamento della condizione, al momento presentati dopo pochi giorni dall'inizio del progetto. Gli stati utilizzati in questo documento sono:
+- **Status:** Lo stato attuale di avanzamento della condizione, al momento presentato dopo pochi giorni dall'inizio dello scoping progetto. Gli stati utilizzati in questo documento sono:
   - **Non iniziato:** La condizione non è ancora stata affrontata.
   - **Monitorato:** La condizione è in corso e viene monitorata regolarmente.
   - **Completato:** La condizione è stata raggiunta con successo.
@@ -104,4 +107,3 @@ La tabella seguente è organizzata in colonne che descrivono diversi aspetti del
     </tr>
 </table>
 
-[Menu](../../index.md)
