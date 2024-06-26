@@ -146,7 +146,7 @@ Ogni cella della tabella contiene un numero che rappresenta la stima del rischio
 <strong> Impatto:</strong> Catastrofico 
 <strong> Stima del rischio:</strong> 20 <br>
 <strong> Motivazione alla stima del rischio:</strong> Questo progetto è il più grande tra quelli intrapresi dall'azienda, impiegherà tutti i dipendenti per un lungo periodo di tempo e i tempi di consegna rappresentano un requisito alquanto stringente.<br>
-<strong> Gestione Rischio:</strong> Mitigazione. Si effettuerà dalle fasi iniziali del progetto un'organizzazione dettagliata del lavoro, che comprenda un'attenta assegnazione dei compiti ai team, secondo le skill dei membri, nonchè un'attenta valutazione delle priorità delle varie task e della loro possibile parallelizzazione.
+<strong> Gestione Rischio:</strong> Mitigazione. Si effettuerà dalle fasi iniziali del progetto un'organizzazione dettagliata del lavoro, che comprenda un'attenta assegnazione dei compiti ai team, secondo le skill dei membri, nonché un'attenta valutazione delle priorità delle varie task e della loro possibile parallelizzazione.
 </div>
 
 
@@ -192,7 +192,7 @@ Ogni cella della tabella contiene un numero che rappresenta la stima del rischio
 <strong> Probabilità:</strong> Irrilevante 
 <strong> Impatto:</strong> Minore 
 <strong> Stima del rischio:</strong> 2 <br>
-<strong> Motivazione alla stima del rischio:</strong> Abbiamo prodotto altri trailer, quindi la probabilità di incorrere in errori di questo tipo è bassa, inoltre l'utenza del brand nutre un particolare interesse iniziale nei suoi confronti l'impatto è moderato per la stessa ragione. <br>
+<strong> Motivazione alla stima del rischio:</strong> Abbiamo prodotto altri trailer; quindi, la probabilità di incorrere in errori di questo tipo è bassa, inoltre l'utenza del brand nutre un particolare interesse iniziale nei suoi confronti l'impatto è moderato per la stessa ragione. <br>
 <strong> Gestione Rischio:</strong> Accettazione/Contingency Plan. Se un trailer dovesse ottenere delle reazioni particolarmente negative si potranno visionare i trailer del brand Dibimon che hanno avuto successo negli anni passati e si tenterà di produrre trailer più interessanti su questa base.
 </div>
 
@@ -246,7 +246,7 @@ Mostrare troppi contenuti nei trailer, rivelando eccessivamente le caratteristic
 <strong> Probabilità:</strong> Irrilevante 
 <strong> Impatto:</strong> Maggiore 
 <strong> Stima del rischio:</strong> 4 <br>
-<strong> Motivazione alla stima del rischio:</strong> Abbiamo prodotto altre demo, quindi la probabilità di incorrere in errori di questo tipo è bassa. Tuttavia, poiché la demo ha una rilevanza significativa nella decisione di acquisto, l'impatto è maggiore.<br>
+<strong> Motivazione alla stima del rischio:</strong> Abbiamo prodotto altre demo; quindi, la probabilità di incorrere in errori di questo tipo è bassa. Tuttavia, poiché la demo ha una rilevanza significativa nella decisione di acquisto, l'impatto è maggiore.<br>
 <strong> Gestione Rischio:</strong> Mitigazione. Durante la creazione della demo, si contatteranno la Mintendo e suoi potenziali clienti per ottenere pareri correttivi.
 </div>
 
