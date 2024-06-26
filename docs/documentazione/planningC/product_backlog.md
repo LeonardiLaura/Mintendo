@@ -84,8 +84,8 @@ I valori del planning poker sono stati mappati in ore uomo nella seguente tabell
 | 89 | 1780 |
 
 
-Per ottenere i valori sopra riportati i varii team sono stati raggruppati in base alle loro copmetenze e gli è stato chiesto di suddividere ogni feature nelle task che la compongono e di valutarne la durata tramite la procedura descritta nell'[approccio al planning](../../approccio/planning)
-
+Per ottenere i valori presenti nel Product Backlog i vari team sono stati raggruppati in base alle loro competenze e gli è stato chiesto di suddividere ogni feature nelle task che la compongono e di valutarne la durata tramite la procedura descritta nell'[approccio al planning](../../approccio/planning).
+In seguito sono riportate le feature (1-4) e la loro rispettiva scomposizione in task appartenenti alla prima milestone e altre due feature (24, 27) per fornire una prospettiva più ampia sui vari aspetti del progetto. 
 
 
 <table>
