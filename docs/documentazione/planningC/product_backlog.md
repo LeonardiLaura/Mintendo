@@ -20,9 +20,9 @@ Il product backlog è stato prodotto selezionando le foglie del WBS, ordinandole
 
 | FeaturePriority | Descrizione | Dimensione stimata |  Milestone 1 | Milestone 2|Milestone 3|Milestone 4|Milestone 5|Milestone 6|Milestone 7|Milestone 8|Milestone 9|Milestone 10| Milestone 11| Milestone 12|Milestone 13|Milestone 14|Milestone 15|Milestone 16|Milestone 17|Milestone 18|Milestone 19|Milestone 20|Milestone 21 | Milestone 22|Milestone 23|Milestone 24|Milestone 25|Milestone 26|Milestone 27|Milestone 28|Milestone 29|Milestone 30| Milestone 31| Milestone 32|Milestone 33|Milestone 34|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
-| 1 |Ribilanciare gli aspetti del gioco originale carenti dal punto di vista degli ambienti | 37 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 2 |Aggiungere nuove tipologie e modifica Dibimon secondo le nuove tipologie|  47 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 3 |Ribilanciare gli aspetti del gioco originale carenti dal punto di vista della difficoltà di gioco|  42 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| 1 |Ribilanciare gli aspetti del gioco originale carenti dal punto di vista degli ambienti | 37 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| 2 |Aggiungere nuove tipologie e modifica Dibimon secondo le nuove tipologie|  47 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| 3 |Ribilanciare gli aspetti del gioco originale carenti dal punto di vista della difficoltà di gioco|  42 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | 4 |Ribilanciare gli aspetti del gioco originale carenti dal punto di vista della trama| 39 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | 5 |Produzione sprite 2D per Dibimon|  141 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | 6 |Produzione modelli 3D elementi ambientali|  87 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
