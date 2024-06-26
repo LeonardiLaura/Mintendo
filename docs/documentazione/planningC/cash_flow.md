@@ -3,7 +3,6 @@
 # Cash flow
 
 
-
 |data|flusso in entrata|flusso in uscita|totale entrata|totale uscita|flusso di cassa netto|
 |-|-|-|-|-|-|
 |2024-09|€ 6,000,000|€ 920,250|€ 6,000,000|€ 920,250|€ 5,079,750|
@@ -67,6 +66,8 @@
 <p align="center">
   <img src="../../img/cash.png" alt="Grafico cash flow" />
 </p>
+
+In seguito sono riportate le stime effettuate per calcolare le uscite del progetto.
 
 |motivazione spesa|frequenza|importo|
 |-|-|-|
