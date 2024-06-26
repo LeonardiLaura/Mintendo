@@ -3,13 +3,7 @@
 
 # Product backlog
 
-Qua manager de team, macro task, solo story points
-manager decidono priorità
-zone di competenza si pigliano le cose grosse
-zone di competenza dividono le cose grosse
-zone di competenza stimano le cose piccole
-     zone di competenza dividono le cose piccole tra team x questa milestone -> launching
-responsabili team riportano punteggi
+
 
 
 
