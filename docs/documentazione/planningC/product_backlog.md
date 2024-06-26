@@ -199,6 +199,7 @@ Per ottenere i valori sopra riportati i varii team sono stati raggruppati in bas
         <td >3</td>
         <td  rowspan="6">68</td>
     </tr>
+    <tr>	
         <td>24.2</td>
         <td>Decisione contenuto scena animata </td>
         <td>5</td>
