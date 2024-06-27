@@ -23,6 +23,7 @@ I meeting previsti durante lo svolgimento del progetto sono i seguenti:
 - Weekly meeting: meeting svolto dai responsabili di ogni team e dal project manager, ha lo scopo di verificare il corretto avanzamento dei lavori a livello macroscopico, identificando eventuali problematiche.
 - Problem resolution meetings: riunioni di emergenza, svolte da membri chiave e responsabili dei team coinvolti, si occupano della risoluzione di problemi emersi durante lo sviluppo.
 - Project review meetings: si svolgono al completamento di ogni milestone, riguardano tutti i responsabili dei vari team, nonché lo sponsor del progetto di Mintendo e il project manager, in tali riunioni si mostrerà il lavoro svolto e si stabiliranno eventuali raffinamenti delle milestone successive.
+
 Oltre a questi meeting sono previsti i classici meeting di inizio e fine sprint di scrum, analizzati nel monitornig.
 
 
