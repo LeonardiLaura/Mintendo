@@ -7,7 +7,7 @@ Ogni task è rappresentato da un elemento analogo al sottostante:
 <p align="center"><img src="../../img/gant.png" alt="nodo gant esempio"> </p>
 Gli elementi dell'immagine sono:
 - **ID:** task ID, ovvero il numero indicati nella prima colonna del [product backlog](./product_backlog)
-- **E:** durata attesa misurata in giorni
+- **E:** durata attesa misurata in giorni, calcolata secondo la seguente formula: *durata = punti funzione x 20 / 25* con 25 numero sviluppatori impiegati nel task
 - **ES:** early start, primo momento utile per iniziare il task
 - **LS:** late start, ultimo momento utile per iniziare il task
 - **EF:** early finish, primo momento utile per finire il task
