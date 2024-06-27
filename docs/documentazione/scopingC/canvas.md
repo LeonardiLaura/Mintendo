@@ -1,3 +1,4 @@
+<!--n-->
 # Business model canvas
 Il Business Model Canvas è uno strumento essenziale utilizzato per delineare e analizzare il modello di business di un'organizzazione. Questo strumento visivo consente di mappare in modo chiaro e conciso i vari elementi chiave che contribuiscono al funzionamento e al successo di un'azienda. Nel contesto del progetto di sviluppo del videogioco basato sul franchise Dibimon per la console Mintendo Swap, il Business Model Canvas offre una panoramica strutturata delle componenti critiche del business.
 
