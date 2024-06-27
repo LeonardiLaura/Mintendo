@@ -1,5 +1,9 @@
+<!--ç-->
+
 # Matrice RASCI
 
+La matrice RASCI permette di assegnare ad ogni individuo che copre un incarico una responsabilità o un ruolo rispetto ad una tipologia di task.
+I ruoli assegnati sono i seguenti:
 
 <style type="text/css">
 h2,h3 {
